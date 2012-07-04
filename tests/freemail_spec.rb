@@ -3,38 +3,35 @@ require_relative '../freemail'
 describe Freemail do
   # Create instance before all tests
   before :each do
-    @freemail = Freemail.new File.read('tests/emails/iMail.txt')
+    @freemail = Freemail.parse File.read('tests/emails/email.txt')
   end
   
   # Test Initialize
   describe '#new' do
-    it 'takes one parameter and returns a Freemail object' do
-      @freemail.should be_an_instance_of Freemail
+    it 'takes one parameter and returns a Hash object' do
+      @freemail.should be_an_instance_of Hash
     end
   end
   
-  # Test headers
-  describe "#header('from')" do
+  # Test Retrievals
+  describe 'body' do
+    it 'returns body of email' do
+      @freemail['body'].should eql 'This is the body of the email.'
+    end
+  end
+  
+  describe 'sender' do
     it 'returns sender' do
-      @freemail.header('from').should eql 'Dr. Nobody <nobody@gmail.com>'
+      @freemail['From'].should eql 'Billy <billy@yahoo.com>'
     end
   end
   
-  describe "#header('subject')" do
-    it 'returns subject' do
-      @freemail.header('subject').should eql 'This is my subject, yo'
-    end
-  end
-  
-  describe "#header('to')" do
-    it 'returns recipient' do
-      @freemail.header('to').should eql 'Johnathan Croom <johnathancroom@gmail.com>'
-    end
-  end
-  
-  describe "#header('nonexistent_property')" do
-    it 'returns nil' do
-      @freemail.header('nonexistent_property').should eql nil
+  describe 'received' do
+    it 'returns received header' do
+      @freemail['Received'].should eql 'from builtbyalpha.com by n23.c09.mtsvc.net with local (Exim 4.72)
+	(envelope-from <serveradmin@builtbyalpha.com>)
+	id 1SmJZI-0001En-7C
+	for johnathancroom@gmail.com; Wed, 04 Jul 2012 00:00:08 -0700'
     end
   end
 end
