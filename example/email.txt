@@ -1,0 +1,31 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: johnathancroom@gmail.com
+Received: by 10.76.90.71 with SMTP id bu7csp6616oab;
+        Wed, 4 Jul 2012 00:00:11 -0700 (PDT)
+Received: by 10.229.136.66 with SMTP id q2mr2483382qct.141.1341385210042;
+        Wed, 04 Jul 2012 00:00:10 -0700 (PDT)
+Return-Path: <serveradmin@builtbyalpha.com>
+Received: from n26.mail01.mtsvc.net (mailout35.mail01.mtsvc.net. [216.70.64.77])
+        by mx.google.com with ESMTPS id q15si7303260qct.180.2012.07.04.00.00.09
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Wed, 04 Jul 2012 00:00:09 -0700 (PDT)
+Received-SPF: neutral (google.com: 216.70.64.77 is neither permitted nor denied by best guess record for domain of serveradmin@builtbyalpha.com) client-ip=216.70.64.77;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 216.70.64.77 is neither permitted nor denied by best guess record for domain of serveradmin@builtbyalpha.com) smtp.mail=serveradmin@builtbyalpha.com
+Received: from n23.c09.mtsvc.net ([205.186.172.23]:33085)
+	by n26.mail01.mtsvc.net with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.72)
+	(envelope-from <serveradmin@builtbyalpha.com>)
+	id 1SmJZI-0002il-R0
+	for johnathancroom@gmail.com; Wed, 04 Jul 2012 03:00:08 -0400
+Received: from builtbyalpha.com by n23.c09.mtsvc.net with local (Exim 4.72)
+	(envelope-from <serveradmin@builtbyalpha.com>)
+	id 1SmJZI-0001En-7C
+	for johnathancroom@gmail.com; Wed, 04 Jul 2012 00:00:08 -0700
+Date: Wed, 04 Jul 2012 00:00:08 -0700
+Message-Id: <E1SmJZI-0001En-7C@n23.c09.mtsvc.net>
+To: johnathancroom@gmail.com
+Subject: Check this out!
+From:Billy <billy@yahoo.com>
+X-MT-ID: 5ad4e89b1fa0075d0aff6f796709604a56bf660b
+
+This is the body of the email.
