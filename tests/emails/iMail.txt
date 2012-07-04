@@ -32,7 +32,7 @@ Received: from [192.168.0.185] (173-24-53-180.client.mchsi.com. [173.24.53.180])
         Mon, 02 Jul 2012 17:56:25 -0700 (PDT)
 From: Dr. Nobody <nobody@gmail.com>
 Content-Type: multipart/alternative; boundary="Apple-Mail=_FEDA9C2B-7958-42EC-A0DD-02AE409D2C94"
-Subject: Celica top
+Subject: This is my subject, yo
 Date: Mon, 2 Jul 2012 17:56:22 -0700
 Message-Id: <E280F112-C52E-4405-8514-59B3D62B963E@gmail.com>
 To: Johnathan Croom <johnathancroom@gmail.com>
