@@ -14,5 +14,10 @@ Freemail is an email parser written in Ruby.
 #Testing
 Tests are written in Rspec in the tests directory and can be tested by running `bundle exec rspec tests` assuming you already setup.
 
+#Todo
+1. Add support for emails with multiple MIME types.
+2. Fix case issue with freemail hash (`@freemail["from"]` and `@freemail["From"]` should return the same value).
+3. Test parser with different email clients in order to ensure it works in all situations.
+
 #Contributing
 Write tests, research, code, communicate, and have fun!
