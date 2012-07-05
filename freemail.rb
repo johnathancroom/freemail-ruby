@@ -5,7 +5,7 @@ class Freemail
       values_hash = {}
       
       # Get body and cut it out
-      raw_email = raw_email.gsub(/\n\n(?<body>.+)$/) {
+      raw_email = raw_email.sub(/\n\n(?<body>.+)/m) {
         @body = $1
         ''
       }

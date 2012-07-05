@@ -29,3 +29,10 @@ From:Billy <billy@yahoo.com>
 X-MT-ID: 5ad4e89b1fa0075d0aff6f796709604a56bf660b
 
 This is the body of the email.
+
+Multiline? I think yes!
+
+http://google.com
+
+Sincerely,
+John

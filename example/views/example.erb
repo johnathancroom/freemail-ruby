@@ -15,15 +15,20 @@
 <body>
   <div>
     <h1>Original Email:</h1>
-    <pre><%= CGI.escapeHTML(@original) %></pre>
+    <pre><%= CGI.escapeHTML @original %></pre>
   </div>
   
   <div>
     <h1>Parsed Email:</h1>
     <pre><% @freemail.each do |property, value| %>
-<%= CGI.escapeHTML("#{property}: #{value}") %>
+<strong><%= CGI.escapeHTML property %>:</strong> <%= CGI.escapeHTML value %>
     <% end %>
     </pre>
+  </div>
+  
+  <div>
+    <h1>Specific Fields:</h1>
+    <pre><strong><%= CGI.escapeHTML @freemail['Subject'] %></strong> from <strong><%= CGI.escapeHTML @freemail['From'] %></strong></pre>
   </div>
 </body>
 </html>
