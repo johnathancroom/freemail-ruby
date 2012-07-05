@@ -1,4 +1,4 @@
-require_relative '../freemail'
+require_relative '../lib/freemail'
 
 describe Freemail do
   # Create instance before all tests

@@ -1,6 +1,6 @@
 require 'sinatra' # Server of choice
 require 'cgi' # Needed to escape HTML in the view
-require_relative '../freemail' # Include the Freemail class
+require_relative '../lib/freemail' # Include the Freemail class
 
 # Process HTML GET requests at the root URL
 get '/' do

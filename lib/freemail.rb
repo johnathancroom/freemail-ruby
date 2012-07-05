@@ -1,3 +1,25 @@
+#
+# Freemail - An email parser written in Ruby
+# https://github.com/johnathancroom/freemail-ruby
+# 
+# USAGE:
+#   (raw_email.txt)
+#
+#     Date: Wed, 04 Jul 2012 00:00:08 -0700
+#     To: johnathancroom@gmail.com
+#     Subject: Check this out!
+#     From:Billy <billy@yahoo.com>
+#
+#     This is the message body!
+#
+#   (file.rb)
+#
+#     require 'freemail'
+#     freemail = Freemail.parse(File.read('raw_email.txt'))
+#       # returns the following hash
+#       # { "Date" => "Wed, 04 Jul 2012 00:00:08 -0700", "To" => "johnathancroom@gmail.com", "Subject" => "Check this out!", "From" => "Billy <billy@yahoo.com>", "body" => "This is the message body!" }
+#
+
 class Freemail
   class << self
     def parse(raw_email)
