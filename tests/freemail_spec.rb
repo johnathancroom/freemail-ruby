@@ -16,7 +16,7 @@ describe Freemail do
   # Test Retrievals
   describe 'body' do
     it 'returns body of email' do
-      @freemail['body'].should eql 'This is the body of the email.'
+      @freemail['body'].should eql "This is the body of the email.\n\nMultiline? I think yes!\n\nhttp://google.com\n\nSincerely,\nJohn"
     end
   end
   
@@ -28,10 +28,7 @@ describe Freemail do
   
   describe 'received' do
     it 'returns received header' do
-      @freemail['Received'].should eql 'from builtbyalpha.com by n23.c09.mtsvc.net with local (Exim 4.72)
-	(envelope-from <serveradmin@builtbyalpha.com>)
-	id 1SmJZI-0001En-7C
-	for johnathancroom@gmail.com; Wed, 04 Jul 2012 00:00:08 -0700'
+      @freemail['Received'].should eql "from builtbyalpha.com by n23.c09.mtsvc.net with local (Exim 4.72)\n\t(envelope-from <serveradmin@builtbyalpha.com>)\n\tid 1SmJZI-0001En-7C\n\tfor johnathancroom@gmail.com; Wed, 04 Jul 2012 00:00:08 -0700"
     end
   end
 end
