@@ -15,19 +15,21 @@
 <body>
   <div>
     <h1>Original Email:</h1>
+    <!-- Escape and show original email -->
     <pre><%= CGI.escapeHTML @original %></pre>
   </div>
   
   <div>
     <h1>Parsed Email:</h1>
-    <pre><% @freemail.each do |property, value| %>
-<strong><%= CGI.escapeHTML property %>:</strong> <%= CGI.escapeHTML value %>
+    <!-- Show each property in our Freemail hash individually -->
+    <% @freemail.each do |property, value| %>
+      <pre><strong><%= CGI.escapeHTML property %>:</strong> <%= CGI.escapeHTML value %></pre>
     <% end %>
-    </pre>
   </div>
   
   <div>
     <h1>Specific Fields:</h1>
+    <!-- Render specific fields from our Freemail hash -->
     <pre><strong><%= CGI.escapeHTML @freemail['Subject'] %></strong> from <strong><%= CGI.escapeHTML @freemail['From'] %></strong></pre>
   </div>
 </body>
