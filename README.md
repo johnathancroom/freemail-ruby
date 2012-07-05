@@ -8,7 +8,7 @@ Freemail is an email parser written in Ruby.
 
 #Running the Example
 1. First, follow the steps in the Getting Setup section.
-2. Run `bundle exec ruby example/server.rb
+2. Run `bundle exec ruby example/server.rb`
 3. View [localhost:4567](//localhost:4567) in your browser.
 
 #Testing
