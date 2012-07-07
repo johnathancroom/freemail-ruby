@@ -24,7 +24,7 @@ class Freemail
   class << self
     def parse(raw_email)
       # Create empty hash
-      values_hash = {}
+      values_hash = InsensitiveHash.new
       
       # Get body and cut it out
       raw_email = raw_email.sub(/\n\n(?<body>.+)/m) {
@@ -46,5 +46,15 @@ class Freemail
       # Return the hash of values
       values_hash
     end
+  end
+end
+
+class InsensitiveHash < Hash
+  def [](key)
+    key.respond_to?(:downcase) ? super(key.downcase) : super(key)
+  end
+
+  def []=(key, value)
+    key.respond_to?(:downcase) ? super(key.downcase, value) : super(key, value)
   end
 end
