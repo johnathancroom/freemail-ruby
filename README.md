@@ -16,6 +16,7 @@ Tests are written in Rspec in the tests directory and can be tested by running `
 
 #Todo
 1. Add support for emails with multiple MIME types.
+2. <del>Fix case issue with freemail hash (`@freemail["from"]` and `@freemail["From"]` should return the same value).</del>
 3. Test parser with different emails and email clients in order to ensure it works in all situations.
 
 #Contributing
