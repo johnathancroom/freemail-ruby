@@ -1,0 +1,1819 @@
+Delivered-To: johnathancroom@gmail.com
+Received: by 10.76.90.71 with SMTP id bu7csp126890oab;
+        Fri, 6 Jul 2012 12:43:53 -0700 (PDT)
+Received: by 10.224.177.1 with SMTP id bg1mr7828685qab.68.1341603833040;
+        Fri, 06 Jul 2012 12:43:53 -0700 (PDT)
+Return-Path: <deals@emails.priceline.com>
+Received: from ny-smtp-dmz01.dmz.priceline.com (ny-smtp-dmz01.dmz.priceline.com. [63.240.36.8])
+        by mx.google.com with ESMTPS id fv3si11930442qab.58.2012.07.06.12.43.52
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Fri, 06 Jul 2012 12:43:53 -0700 (PDT)
+Received-SPF: fail (google.com: domain of deals@emails.priceline.com does not designate 63.240.36.8 as permitted sender) client-ip=63.240.36.8;
+Authentication-Results: mx.google.com; spf=hardfail (google.com: domain of deals@emails.priceline.com does not designate 63.240.36.8 as permitted sender) smtp.mail=deals@emails.priceline.com; dkim=pass header.i=@priceline.com
+Received: from ny-smtpfwd-301.corp.priceline.com (ny-smtpfwd-301.corp.priceline.com [10.1.115.2])
+	by ny-smtp-dmz01.dmz.priceline.com (8.14.5/8.14.5) with ESMTP id q66Jhngx000904
+	for <JOHNATHANCROOM@GMAIL.COM>; Fri, 6 Jul 2012 15:43:51 -0400
+X-DKIM: OpenDKIM Filter v2.4.2 ny-smtp-dmz01.dmz.priceline.com q66Jhngx000904
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=priceline.com;
+	s=prod-def2012; t=1341603832;
+	bh=vIPAQ91aY3yzn3sFUkYFu3Rkv0ZukywAtp/IKBVb5tQ=;
+	h=Date:From:Reply-To:To:Message-ID:Subject:Mime-Version:
+	 Content-Type:Content-Transfer-Encoding:CC;
+	z=Date:=20Fri,=206=20Jul=202012=2015:43:49=20-0400=20(EDT)|From:=20
+	 "Priceline.com"=20<deals@emails.priceline.com>|Reply-To:=20travel@
+	 priceline.com|To:=20JOHNATHAN=20<JOHNATHANCROOM@GMAIL.COM>|Message
+	 -ID:=20<432748406.44713.1341603829230.JavaMail.dets@ny-dets-002>|S
+	 ubject:=20Orlando,=20FL=20Flights:=20Save=20up=20to=2040%!|Mime-Ve
+	 rsion:=201.0|Content-Type:=20text/html=3B=20charset=3Dutf-8|Conten
+	 t-Transfer-Encoding:=20quoted-printable;
+	b=DPa6RW3Ow4VYbQE8v7WTAL89TiRlZzOjmb6OxuVPTJahCBgimCGkoj+9wFwmzZ+mk
+	 XUwgRlCP5S/wZf6k52wnIn5zMrZei6w7iUs0YlfAKgRO/zAW6p33dHbfp241SfuULY
+	 vOYjw0ZWhd8DRxhpmNizsndlHQy+M3URoywdx1YQ=
+Received: from ny-dets-002.prod.pcln.com (ny-dets-002.prod.pcln.com [10.1.100.62])
+	by ny-smtpfwd-301.corp.priceline.com (8.14.5/8.14.5) with ESMTP id q66JhntO031125
+	for <JOHNATHANCROOM@GMAIL.COM>; Fri, 6 Jul 2012 15:43:49 -0400
+Date: Fri, 6 Jul 2012 15:43:49 -0400 (EDT)
+From: "Priceline.com" <deals@emails.priceline.com>
+Reply-To: travel@priceline.com
+To: JOHNATHAN <JOHNATHANCROOM@GMAIL.COM>
+Message-ID: <432748406.44713.1341603829230.JavaMail.dets@ny-dets-002>
+Subject: Orlando, FL Flights: Save up to 40%!
+Mime-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-priceline-ets-request-id: 201207061543_7803019604
+X-priceline-ets-audit-id: 20436957405
+
+<html>
+   <head>
+      <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF=
+-8">
+      <title>Orlando, FL Flights: Save up to 40%!</title><style type=3D"tex=
+t/css">
+@media print {
+   body {
+       background: url('http://jump.priceline.com/email_open1x1.gif?batchId=
+=3D245606&sendId=3D19781188205&mode=3Dprint') no-repeat;
+   }
+}
+</style></head>
+   <body bgcolor=3D"#0A84C1" style=3D"background-color:#0A84C1;border:0;mar=
+gin:0;font-family:Arial;text-align:left;font-size:8px;color:#000">
+      <table bgcolor=3D"#0A84C1" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"font-family:Arial;text-align:left;font-size:10px;color:#4A4=
+A4A;padding:0 0 10px 5px;">
+         <tr>
+            <td>   =20
+               To view this email as a web page, <a style=3D"color:blue;" h=
+ref=3D"http://jump.priceline.com/sharedapps/evs?x=3DIDGPUJD&amp;from=3DDINC=
+&amp;refid=3DPMtransact&amp;refclickid=3D20120706%7C%7CCUSTOMER%7CABANDONAT=
+OR%7CVIEW_AS_WEBPAGE%7C16%7CANY&amp;sendId=3D19781188205&amp;batchId=3D2456=
+06&amp;ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6=
+F&amp;utm_medium=3Demail&amp;utm_source=3Dtransactional&amp;utm_campaign=3D=
+%7CCUSTOMER%7CABANDONATOR&amp;email_subject_line=3DOrlando%2C%20FL%20Flight=
+s%3A%20Save%20up%20to%2040%25!&amp;email_preview_line=3D">go here</a>.
+              =20
+            </td>
+         </tr>
+      </table>
+      <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#0=
+A84C1" width=3D"100%">
+         <tr>
+            <td align=3D"left">
+              =20
+<!-- start slot body-content template [312906] abandonator_body.xsl -->
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#0A85C1"=
+> <tr> <td colspan=3D"2" bgcolor=3D"#0A85C1" valign=3D"top"><table width=3D=
+'775' style=3D'margin: 1px 0px 5px 0px;' bgcolor=3D'#0a85c1'> <tr> <td widt=
+h=3D'227' align=3D'left'> <a href=3D'http://jump.priceline.com/?refid=3DPMA=
+BANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail=
+&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|LOGO&batchId=3D2=
+45606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F=
+' alias=3D'LOGO'> <img src=3D'http://img1.priceline.com/ets/aband/priceline=
+Logo.gif' alt=3D'priceline.com' border=3D'0' width=3D'227' height=3D'52' st=
+yle=3D'font-family:arial; color:#ffffff;display:block;font-size:30px;font-w=
+eight:bold;text-decoration:none;'> </a> </td> <td colspan=3D'6'> <div style=
+=3D'float:right; padding: 0px 5px 0px 0px; vertical-align: top; text-align:=
+left;' width=3D'224' height=3D'35'> <div style=3D'color: white; margin: 0; =
+padding: 0;font-family:arial;'> <a href=3D'http://jump.priceline.com/flight=
+s/?refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_=
+medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|TO=
+PNAV&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536=
+408E232E179DAC6F' alias=3D'TOP_NAV' style=3D'color: #fff; text-decoration: =
+underline; font-size:14px;'>flights</a> | <a href=3D'http://jump.priceline.=
+com/hotels/?refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON=
+_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D20=
+120706|TOPNAV&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55=
+117191536408E232E179DAC6F' alias=3D'TOP_NAV' style=3D'color: #fff; text-dec=
+oration: underline; font-size:14px;'> hotels</a> | <a href=3D'http://jump.p=
+riceline.com/rentalcars/?refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_sou=
+rce=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&re=
+fclickid=3D20120706|TOPNAV&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A=
+5673CD86DEB55117191536408E232E179DAC6F' alias=3D'TOP_NAV 'style=3D'color: #=
+fff; text-decoration: underline; font-size:14px;'> cars</a> | <a href=3D'ht=
+tp://jump.priceline.com/vacationpackages/?refid=3DPMABANDON_AIR&sendId=3D19=
+781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDO=
+N_AIR_20120706&refclickid=3D20120706|TOPNAV&batchId=3D245606&ea=3DE980DCA6C=
+658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'TOP_NAV' =
+style=3D'color: #fff; text-decoration: underline; font-size:14px;'> package=
+s</a> | <a href=3D'http://jump.priceline.com/pricelinecruiseoutlet.asp?refi=
+d=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=
+=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|TOPNAV&c=
+id=3DpBRK20060613&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86D=
+EB55117191536408E232E179DAC6F' alias=3D'TOP_NAV' style=3D'color: #fff; text=
+-decoration: underline; font-size:14px;'>cruises</a> | <a href=3D'http://ju=
+mp.priceline.com/toursandattractions/?refid=3DPMABANDON_AIR&sendId=3D197811=
+88205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AI=
+R_20120706&refclickid=3D20120706|TOPNAV&batchId=3D245606&ea=3DE980DCA6C658F=
+2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'TOP_NAV' styl=
+e=3D'color: #fff; text-decoration: underline; font-size:14px;'> activities<=
+/a> | <a href=3D'http://jump.priceline.com/pricebreakers?refid=3DPMABANDON_=
+AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_ca=
+mpaign=3DABANDON_AIR_20120706&refclickid=3D20120706|TOPNAV&batchId=3D245606=
+&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' ali=
+as=3D'TOP_NAV' style=3D'color: #fff; text-decoration: underline; font-size:=
+14px;'> pricebreaker deals</a> | <a href=3D'http://findgroupdeals.hotelplan=
+ner.com/Priceline.cfm?sc=3DPCLN_ABANDON_AIR_EMAIL' style=3D'color: #fff; te=
+xt-decoration: underline; font-size:14px;' alias=3D'TOP_NAV'>groups</a> </d=
+iv> </div> </td> </tr> </table> </td> </tr> <tr> <td bgcolor=3D"#0A85C1" va=
+lign=3D"top"><img src=3D'http://img1.priceline.com/ets/aband/forYourTripAir=
+.gif' alt=3D'For Your Upcoming Orlando, FL Trip' width=3D'471' height=3D'35=
+' style=3D'color:#ffffff; font-size:16px; font-family:arial;font-weight:bol=
+d;'/><table cellpadding=3D'0' cellspacing=3D'0'> <tr> <td bgcolor=3D'#0a85c=
+1' width=3D'7'></td> <td bgcolor=3D'#60afd7' width=3D'8'></td> <td bgcolor=
+=3D'#c9e4f2' width=3D'6'></td> <td bgcolor=3D'#ffffff' width=3D'435'> <tabl=
+e width=3D'435' cellpadding=3D'0' cellspacing=3D'0'> <tr> <td style=3D'font=
+-family:arial; font-size:13px; color:#000000; padding:10px 10px 10px 10px;'=
+> <span style=3D'color:#FF7200; font-weight:bold;'>Johnathan,</span><br/> <=
+span style=3D'font-size:12px;'> For deeper discounts on your Orlando, FL fl=
+ight, choose your airports and travel dates and then <a href=3D'http://jump=
+.priceline.com/flights/default.asp?refid=3DPMABANDON_AIR&sendId=3D197811882=
+05&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_2=
+0120706&refclickid=3D20120706|PARA_NYOP_AIR&batchId=3D245606&ea=3DE980DCA6C=
+658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'PARA_NYOP=
+_AIR' style=3D'color:#0a85c1;font-size:12px; font-family:arial;font-weight:=
+bold;text-decoration:underline;'>Name Your Own Price=C2=AE and save up to 4=
+0% off!</a><sup> ^</sup> Check out the recent winning customer bids in Orla=
+ndo, FL below to get started.</span> </td> </tr> </table> </td> <td bgcolor=
+=3D'#c9e4f2' width=3D'6'></td><td bgcolor=3D'#60afd7' width=3D'9'> </td> </=
+tr> </table><table cellpadding=3D'0' cellspacing=3D'0' width=3D'471' border=
+=3D'0'> <tr> <td bgcolor=3D'#0a85c1' width=3D'7'></td> <td bgcolor=3D'#60af=
+d7' width=3D'8'></td> <td bgcolor=3D'#c9e4f2' width=3D'6'></td> <td bgcolor=
+=3D'#ffffff' width=3D'435' align=3D'center' style=3D'padding:0px 0px 5px 0p=
+x;'> <table width=3D'415' cellpadding=3D'0' cellspacing=3D'0' border=3D'0' =
+align=3D'center' style=3D'padding:10px 0px 0px 0px;'> <tr> <td width=3D'415=
+' align=3D'left' style=3D'font-family:arial; font-size:18px; color:#0a85c1;=
+ padding:10px 0px 0px 0px;'> <span style=3D'vertical-align:middle;'><b>Orla=
+ndo, FL Flight Deals</b></span> </td> </tr> </table> <table width=3D'415' c=
+ellpadding=3D'0' cellspacing=3D'0' border=3D'0' align=3D'center' bgcolor=3D=
+'#FFFFFF;'> <tr> <td width=3D'415' align=3D'center' bgcolor=3D'#c9e4f2' sty=
+le=3D'border:1px solid #0a85c1; padding:5px 5px 5px 5px;'><table id=3D'row1=
+_begin' width=3D'405' bgcolor=3D'#ffffff' style=3D'border-bottom:1px solid =
+#D9DADE;border-right:1px solid #D9DADE;border-left:1px solid #D9DADE;'> <tr=
+> <td width=3D'415' colspan=3D'5' align=3D'left' style=3D'font-family:arial=
+; font-size:14px; color:#0a85c1; padding:3px 0px 5px 3px;'> <span style=3D'=
+vertical-align:middle;'><b>Published Priced Flights</b><!--<span style=3D'c=
+olor:#FF540A; font-size:12px;padding:0px 0px 0px 10px;'>no booking fees!</s=
+pan>--></span> </td> </tr> <tr> <td width=3D'265' style=3D'padding-bottom:3=
+px;' align=3D'left'> <a href=3D'http://jump.priceline.com/hr.asp?jurl=3Dins=
+ideTrack/flights/Phoenix-PHX-Orlando-ORL.html&refid=3DPMABANDON_AIR&refclic=
+kid=3D20120706|AIRDEALS_TITLE&batchId=3D245606&sendId=3D19781188205&utm_sou=
+rce=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=
+=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=
+=3D'AIRDEALS_TITLE' style=3D'vertical-align:top;text-decoration:underline;f=
+ont-family:arial;font-size:14px;color:#0A85C1;'>Phoenix to Orlando</a> </td=
+> <td width=3D'35' align=3D'right' style=3D'padding-bottom:3px;'> <a href=
+=3D'http://jump.priceline.com/hr.asp?jurl=3DinsideTrack/flights/Phoenix-PHX=
+-Orlando-ORL.html&refid=3DPMABANDON_AIR&refclickid=3D20120706|AIRDEALS_PRIC=
+E&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=
+=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552=
+A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'AIRDEALS_PRICE' style=3D'=
+vertical-align:top;text-decoration:none;font-weight:bold;font-family:arial;=
+font-size:14px;color:#0A85C1;'>$335</a> </td> <td width=3D'35' align=3D'cen=
+ter' style=3D'padding-bottom:3px;'> <a href=3D'http://jump.priceline.com/hr=
+.asp?jurl=3DinsideTrack/flights/Phoenix-PHX-Orlando-ORL.html&refid=3DPMABAN=
+DON_AIR&refclickid=3D20120706|AIRDEALS_PRICE_CHANGE&batchId=3D245606&sendId=
+=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DA=
+BANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB5511719153640=
+8E232E179DAC6F' alias=3D'AIRDEALS_PRICE_CHANGE' style=3D'vertical-align:top=
+;text-decoration:none;font-weight:bold;font-family:arial;font-size:14px;col=
+or:#0A85C1;'> <img src=3D'http://img1.priceline.com/ets/aband/icon_drop.gif=
+' height=3D'16' width=3D'16' border=3D'0' style=3D'display:block;'></a> </t=
+d> <td width=3D'70' align=3D'center' style=3D'padding-bottom:3px;'> <a href=
+=3D'http://jump.priceline.com/hr.asp?jurl=3DinsideTrack/flights/Phoenix-PHX=
+-Orlando-ORL.html&refid=3DPMABANDON_AIR&refclickid=3D20120706|AIRDEALS_BOOK=
+NOW&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medi=
+um=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF5=
+52A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'AIRDEALS_BOOKNOW' style=
+=3D'vertical-align:top;text-decoration:none;font-family:arial;font-size:14p=
+x;color:#0A85C1;'> <img src=3D'http://img1.priceline.com/ets/aband/book_now=
+.gif' height=3D'17' width=3D'70' border=3D'0' style=3D'display:block;'></a>=
+ </td> </tr> </table><table id=3D'row1_begin' width=3D'405' bgcolor=3D'#fff=
+fff' style=3D'margin-top:5px;border-bottom:1px solid #D9DADE;border-right:1=
+px solid #D9DADE;border-left:1px solid #D9DADE;'> <tr> <td width=3D'415' co=
+lspan=3D'5' align=3D'left' style=3D'font-family:arial; font-size:14px; colo=
+r:#0a85c1; padding:3px 0px 5px 3px;'> <span style=3D'vertical-align:middle;=
+'><b>Recent Name Your Own Price<sup>=C2=AE</sup> Winning Bids</b><sup> ^ </=
+sup></span> </td> </tr> <tr> <td width=3D'245' style=3D'padding-bottom:3px;=
+' align=3D'left'> <a href=3D'http://jump.priceline.com/qp.asp?productID=3D1=
+&DepCity=3DPHX&ArrCity=3DORL&DepartureDate=3D&ReturnDate=3D&DepTime=3D0&Ret=
+Time=3D0&TripType=3DRT&CabinClass=3DECO&NumTickets=3D1&OMC=3DO&refid=3DPMAB=
+ANDON_AIR&refclickid=3D20120706|NYOPAIRDEALS_TITLE&batchId=3D245606&sendId=
+=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DA=
+BANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB5511719153640=
+8E232E179DAC6F' alias=3D'NYOPAIRDEALS_TITLE' style=3D'vertical-align:top;te=
+xt-decoration:underline;font-family:arial;font-size:14px;color:#0A85C1;'>Ph=
+oenix to Orlando</a> </td> <td width=3D'35' align=3D'right' style=3D'paddin=
+g-bottom:3px;'> <a href=3D'http://jump.priceline.com/qp.asp?productID=3D1&D=
+epCity=3DPHX&ArrCity=3DORL&DepartureDate=3D&ReturnDate=3D&DepTime=3D0&RetTi=
+me=3D0&TripType=3DRT&CabinClass=3DECO&NumTickets=3D1&OMC=3DO&refid=3DPMABAN=
+DON_AIR&refclickid=3D20120706|NYOPAIRDEALS_STRIKE_PRICE&batchId=3D245606&se=
+ndId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=
+=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB551171915=
+36408E232E179DAC6F' alias=3D'NYOPAIRDEALS_STRIKE_PRICE' style=3D'vertical-a=
+lign:top;text-decoration:none;font-weight:bold;font-family:arial;font-size:=
+14px;color:#888888;'><strike>$446</strike></a> </td> <td width=3D'35' align=
+=3D'right' style=3D'padding-bottom:3px;'> <a href=3D'http://jump.priceline.=
+com/qp.asp?productID=3D1&DepCity=3DPHX&ArrCity=3DORL&DepartureDate=3D&Retur=
+nDate=3D&DepTime=3D0&RetTime=3D0&TripType=3DRT&CabinClass=3DECO&NumTickets=
+=3D1&OMC=3DO&refid=3DPMABANDON_AIR&refclickid=3D20120706|NYOPAIRDEALS_PRICE=
+&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=
+=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552=
+A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOPAIRDEALS_PRICE' style=
+=3D'vertical-align:top;text-decoration:none;font-weight:bold;font-family:ar=
+ial;font-size:14px;color:#0A85C1;'>$285</a> </td> <td width=3D'60' align=3D=
+'center' style=3D'padding-bottom:3px;'> <a href=3D'http://jump.priceline.co=
+m/qp.asp?productID=3D1&DepCity=3DPHX&ArrCity=3DORL&DepartureDate=3D&ReturnD=
+ate=3D&DepTime=3D0&RetTime=3D0&TripType=3DRT&CabinClass=3DECO&NumTickets=3D=
+1&OMC=3DO&refid=3DPMABANDON_AIR&refclickid=3D20120706|NYOP0AIRDEALS_SAVINGS=
+&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=
+=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552=
+A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOPAIRDEALS_SAVINGS' sty=
+le=3D'vertical-align:top;font-weight:bold;text-decoration:none;font-family:=
+arial;font-size:14px;color:#3C910E;'>32%</a> </td> <td width=3D'30' align=
+=3D'center' style=3D'padding-bottom:3px;'> <a href=3D'http://jump.priceline=
+.com/qp.asp?productID=3D1&DepCity=3DPHX&ArrCity=3DORL&DepartureDate=3D&Retu=
+rnDate=3D&DepTime=3D0&RetTime=3D0&TripType=3DRT&CabinClass=3DECO&NumTickets=
+=3D1&OMC=3DO&refid=3DPMABANDON_AIR&refclickid=3D20120706|NYOPAIRDEALS_BIDNO=
+W&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=
+=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552=
+A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOPAIRDEALS_BIDNOW' styl=
+e=3D'vertical-align:top;text-decoration:none;font-family:arial;font-size:14=
+px;color:#0A85C1;'> <img src=3D'http://img1.priceline.com/ets/aband/hpnogo.=
+gif' height=3D'23' width=3D'26' border=3D'0' style=3D'display:block;'></a> =
+</td> </tr> </table></td></tr></table></td><td bgcolor=3D'#c9e4f2' width=3D=
+'6'></td><td bgcolor=3D'#60afd7' width=3D'9'></td></tr></table><table cellp=
+adding=3D'0' cellspacing=3D'0' width=3D'471' border=3D'0'> <tr> <td bgcolor=
+=3D'#0a85c1' width=3D'7'></td> <td bgcolor=3D'#60afd7' width=3D'8'></td> <t=
+d bgcolor=3D'#c9e4f2' width=3D'6'></td> <td bgcolor=3D'#ffffff' width=3D'43=
+5' height=3D'10' align=3D'center'></td> <td bgcolor=3D'#c9e4f2' width=3D'6'=
+></td> <td bgcolor=3D'#60afd7' width=3D'9'></td> </tr> </table><table cellp=
+adding=3D'0' cellspacing=3D'0' width=3D'471' border=3D'0'> <tr> <td bgcolor=
+=3D'#0a85c1' width=3D'7'></td> <td bgcolor=3D'#60afd7' width=3D'8'></td> <t=
+d bgcolor=3D'#c9e4f2' width=3D'6'></td> <td bgcolor=3D'#ffffff' width=3D'43=
+5' align=3D'center' style=3D'padding:0px 0px 5px 0px;'> <table width=3D'415=
+' cellpadding=3D'0' cellspacing=3D'0' border=3D'0' align=3D'center' style=
+=3D'padding:10px 0px 0px 0px;'> <tr> <td width=3D'415' align=3D'left' style=
+=3D'font-family:arial; font-size:18px; color:#0a85c1; padding:10px 0px 0px =
+0px;'> <span style=3D'vertical-align:middle;'><b>Save on a Orlando, FL Rent=
+al Car</b></span><br/> <span style=3D'font-size:13px;'><i>recent name your =
+own price winning bids in Orlando, FL</i><sup> #</sup></span> </td> </tr> <=
+/table> <table width=3D'415' cellpadding=3D'0' cellspacing=3D'0' border=3D'=
+0' align=3D'center' bgcolor=3D'#FFFFFF'> <tr> <td width=3D'415' align=3D'ce=
+nter' bgcolor=3D'#c9e4f2' style=3D'border:1px solid #0a85c1; padding:5px 5p=
+x 5px 5px;'><table width=3D'405' bgcolor=3D'#ffffff' id=3D'row1_begin' styl=
+e=3D'border-bottom: 1px solid rgb(217, 218, 222); border-right: 1px solid r=
+gb(217, 218, 222); border-left: 1px;solid rgb(217, 218, 222);'> <tbody> <tr=
+> <td width=3D'120' align=3D'center' style=3D'padding-bottom: 1px;'> <a hre=
+f=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DSFB=
+&VECHCLASS=3DCCAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&=
+PickupTime=3D&DropoffTime=3D&DropoffLoc=3DSFB&refid=3DPMABANDON_AIR&refclic=
+kid=3D20120706|RCDEALS_IMG&batchId=3D245606&sendId=3D19781188205&utm_source=
+=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3D=
+E980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'=
+RCDEALS_IMG'> <img width=3D'100' height=3D'53' border=3D'0' src=3D'http://i=
+mg1.priceline.com/ets/aband/CAR_CCAR.jpg' style=3D'display: block;'> </a> <=
+/td> <td width=3D'175' align=3D'left' style=3D'padding: 0px 0px 1px 5px;'> =
+<a href=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=
+=3DSFB&VECHCLASS=3DCCAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2=
+F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DSFB&refid=3DPMABANDON_AIR&r=
+efclickid=3D20120706|RCDEALS_TITLE&batchId=3D245606&sendId=3D19781188205&ut=
+m_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_201207=
+06&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' a=
+lias=3D'RCDEALS_TITLE' style=3D'vertical-align: top; text-decoration: none;=
+ font-weight: bold; font-family: arial; font-size: 16px; color: rgb(10, 133=
+, 193);'> Compact Car - <span style=3D'font-size: 14px;'>(SFB)<br> <span st=
+yle=3D'font-size: 12px; color: black; text-decoration: none; font-weight: n=
+ormal;'> One of our customers just booked a Compact Car in Orlando for $15 =
+a day. </span> </span> </a> </td> <td width=3D'70' align=3D'center' style=
+=3D'padding-bottom: 1px;'> <a href=3D'http://jump.priceline.com/qp.asp?omc=
+=3DO&ProductID=3D8&PickupLoc=3DSFB&VECHCLASS=3DCCAR&PickupDate=3D07%2F18%2F=
+2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=
+=3DSFB&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_PRICE&batchId=3D=
+245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm=
+_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB=
+55117191536408E232E179DAC6F' alias=3D'RCDEALS_PRICE' style=3D'vertical-alig=
+n: top; text-decoration: none; font-weight: bold; font-family: arial; font-=
+size: 26px; color: rgb(10, 133, 193);'> $15 <br> <span style=3D'text-decora=
+tion: none; font-weight: normal; font-size: 12px;'> per day<br> </span> </a=
+> <a style=3D'vertical-align: top; text-decoration: none; font-family: aria=
+l; font-size: 14px; color: rgb(10, 133, 193);' alias=3D'RCDEALS_BOOKNOW' hr=
+ef=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DSF=
+B&VECHCLASS=3DCCAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012=
+&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DSFB&refid=3DPMABANDON_AIR&refcli=
+ckid=3D20120706|RCDEALS_BOOKNOW&batchId=3D245606&sendId=3D19781188205&utm_s=
+ource=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&=
+ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F'> <im=
+g src=3D'http://img1.priceline.com/ets/aband/chooseButton.gif' height=3D'20=
+' width=3D'60' border=3D'0' alt=3D'choose' style=3D'display:block;'></a> </=
+a> </td> </tr> </tbody></table><table width=3D'405' bgcolor=3D'#ffffff' id=
+=3D'row1_begin' style=3D'border-bottom: 1px solid rgb(217, 218, 222); borde=
+r-right: 1px solid rgb(217, 218, 222); border-left: 1px;solid rgb(217, 218,=
+ 222);'> <tbody> <tr> <td width=3D'120' align=3D'center' style=3D'padding-b=
+ottom: 1px;'> <a href=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=
+=3D8&PickupLoc=3DSFB&VECHCLASS=3DECAR&PickupDate=3D07%2F18%2F2012&DropoffDa=
+te=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DSFB&refid=3DP=
+MABANDON_AIR&refclickid=3D20120706|RCDEALS_IMG&batchId=3D245606&sendId=3D19=
+781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDO=
+N_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232=
+E179DAC6F' alias=3D'RCDEALS_IMG'> <img width=3D'100' height=3D'53' border=
+=3D'0' src=3D'http://img1.priceline.com/ets/aband/CAR_ECAR.jpg' style=3D'di=
+splay: block;'> </a> </td> <td width=3D'175' align=3D'left' style=3D'paddin=
+g: 0px 0px 1px 5px;'> <a href=3D'http://jump.priceline.com/qp.asp?omc=3DO&P=
+roductID=3D8&PickupLoc=3DSFB&VECHCLASS=3DECAR&PickupDate=3D07%2F18%2F2012&D=
+ropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DSFB&r=
+efid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_TITLE&batchId=3D245606&s=
+endId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaig=
+n=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191=
+536408E232E179DAC6F' alias=3D'RCDEALS_TITLE' style=3D'vertical-align: top; =
+text-decoration: none; font-weight: bold; font-family: arial; font-size: 16=
+px; color: rgb(10, 133, 193);'> Economy Car - <span style=3D'font-size: 14p=
+x;'>(SFB)<br> <span style=3D'font-size: 12px; color: black; text-decoration=
+: none; font-weight: normal;'> One of our customers just booked a Economy C=
+ar in Orlando for $15 a day. </span> </span> </a> </td> <td width=3D'70' al=
+ign=3D'center' style=3D'padding-bottom: 1px;'> <a href=3D'http://jump.price=
+line.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DSFB&VECHCLASS=3DECAR&Pick=
+upDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffT=
+ime=3D&DropoffLoc=3DSFB&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS=
+_PRICE&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_m=
+edium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273=
+FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'RCDEALS_PRICE' style=
+=3D'vertical-align: top; text-decoration: none; font-weight: bold; font-fam=
+ily: arial; font-size: 26px; color: rgb(10, 133, 193);'> $15 <br> <span sty=
+le=3D'text-decoration: none; font-weight: normal; font-size: 12px;'> per da=
+y<br> </span> </a> <a style=3D'vertical-align: top; text-decoration: none; =
+font-family: arial; font-size: 14px; color: rgb(10, 133, 193);' alias=3D'RC=
+DEALS_BOOKNOW' href=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=
+=3D8&PickupLoc=3DSFB&VECHCLASS=3DECAR&PickupDate=3D07%2F18%2F2012&DropoffDa=
+te=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DSFB&refid=3DP=
+MABANDON_AIR&refclickid=3D20120706|RCDEALS_BOOKNOW&batchId=3D245606&sendId=
+=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DA=
+BANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB5511719153640=
+8E232E179DAC6F'> <img src=3D'http://img1.priceline.com/ets/aband/chooseButt=
+on.gif' height=3D'20' width=3D'60' border=3D'0' alt=3D'choose' style=3D'dis=
+play:block;'></a> </a> </td> </tr> </tbody></table><table width=3D'405' bgc=
+olor=3D'#ffffff' id=3D'row1_begin' style=3D'border-bottom: 1px solid rgb(21=
+7, 218, 222); border-right: 1px solid rgb(217, 218, 222); border-left: 1px;=
+solid rgb(217, 218, 222);'> <tbody> <tr> <td width=3D'120' align=3D'center'=
+ style=3D'padding-bottom: 1px;'> <a href=3D'http://jump.priceline.com/qp.as=
+p?omc=3DO&ProductID=3D8&PickupLoc=3DSFB&VECHCLASS=3DFCAR&PickupDate=3D07%2F=
+18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&Dropoff=
+Loc=3DSFB&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_IMG&batchId=
+=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&=
+utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86=
+DEB55117191536408E232E179DAC6F' alias=3D'RCDEALS_IMG'> <img width=3D'100' h=
+eight=3D'53' border=3D'0' src=3D'http://img1.priceline.com/ets/aband/CAR_FC=
+AR.jpg' style=3D'display: block;'> </a> </td> <td width=3D'175' align=3D'le=
+ft' style=3D'padding: 0px 0px 1px 5px;'> <a href=3D'http://jump.priceline.c=
+om/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DSFB&VECHCLASS=3DFCAR&PickupDate=
+=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D=
+&DropoffLoc=3DSFB&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_TITLE=
+&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=
+=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552=
+A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'RCDEALS_TITLE' style=3D'v=
+ertical-align: top; text-decoration: none; font-weight: bold; font-family: =
+arial; font-size: 16px; color: rgb(10, 133, 193);'> Full-Size Car - <span s=
+tyle=3D'font-size: 14px;'>(SFB)<br> <span style=3D'font-size: 12px; color: =
+black; text-decoration: none; font-weight: normal;'> One of our customers j=
+ust booked a Full-Size Car in Orlando for $15 a day. </span> </span> </a> <=
+/td> <td width=3D'70' align=3D'center' style=3D'padding-bottom: 1px;'> <a h=
+ref=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DS=
+FB&VECHCLASS=3DFCAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F201=
+2&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DSFB&refid=3DPMABANDON_AIR&refcl=
+ickid=3D20120706|RCDEALS_PRICE&batchId=3D245606&sendId=3D19781188205&utm_so=
+urce=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&e=
+a=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=
+=3D'RCDEALS_PRICE' style=3D'vertical-align: top; text-decoration: none; fon=
+t-weight: bold; font-family: arial; font-size: 26px; color: rgb(10, 133, 19=
+3);'> $15 <br> <span style=3D'text-decoration: none; font-weight: normal; f=
+ont-size: 12px;'> per day<br> </span> </a> <a style=3D'vertical-align: top;=
+ text-decoration: none; font-family: arial; font-size: 14px; color: rgb(10,=
+ 133, 193);' alias=3D'RCDEALS_BOOKNOW' href=3D'http://jump.priceline.com/qp=
+.asp?omc=3DO&ProductID=3D8&PickupLoc=3DSFB&VECHCLASS=3DFCAR&PickupDate=3D07=
+%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&Drop=
+offLoc=3DSFB&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_BOOKNOW&ba=
+tchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3De=
+mail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A567=
+3CD86DEB55117191536408E232E179DAC6F'> <img src=3D'http://img1.priceline.com=
+/ets/aband/chooseButton.gif' height=3D'20' width=3D'60' border=3D'0' alt=3D=
+'choose' style=3D'display:block;'></a> </a> </td> </tr> </tbody></table><ta=
+ble width=3D'405' bgcolor=3D'#ffffff' id=3D'row1_begin' style=3D'border-bot=
+tom: 1px solid rgb(217, 218, 222); border-right: 1px solid rgb(217, 218, 22=
+2); border-left: 1px;solid rgb(217, 218, 222);'> <tbody> <tr> <td width=3D'=
+120' align=3D'center' style=3D'padding-bottom: 1px;'> <a href=3D'http://jum=
+p.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DSFB&VECHCLASS=3DIC=
+AR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&D=
+ropoffTime=3D&DropoffLoc=3DSFB&refid=3DPMABANDON_AIR&refclickid=3D20120706|=
+RCDEALS_IMG&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&=
+utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B=
+28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'RCDEALS_IMG'> <=
+img width=3D'100' height=3D'53' border=3D'0' src=3D'http://img1.priceline.c=
+om/ets/aband/CAR_ICAR.jpg' style=3D'display: block;'> </a> </td> <td width=
+=3D'175' align=3D'left' style=3D'padding: 0px 0px 1px 5px;'> <a href=3D'htt=
+p://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DSFB&VECHCLA=
+SS=3DICAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTi=
+me=3D&DropoffTime=3D&DropoffLoc=3DSFB&refid=3DPMABANDON_AIR&refclickid=3D20=
+120706|RCDEALS_TITLE&batchId=3D245606&sendId=3D19781188205&utm_source=3DABA=
+NDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DC=
+A6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'RCDEAL=
+S_TITLE' style=3D'vertical-align: top; text-decoration: none; font-weight: =
+bold; font-family: arial; font-size: 16px; color: rgb(10, 133, 193);'> Mid-=
+Size Car - <span style=3D'font-size: 14px;'>(SFB)<br> <span style=3D'font-s=
+ize: 12px; color: black; text-decoration: none; font-weight: normal;'> One =
+of our customers just booked a Mid-Size Car in Orlando for $15 a day. </spa=
+n> </span> </a> </td> <td width=3D'70' align=3D'center' style=3D'padding-bo=
+ttom: 1px;'> <a href=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=
+=3D8&PickupLoc=3DSFB&VECHCLASS=3DICAR&PickupDate=3D07%2F18%2F2012&DropoffDa=
+te=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DSFB&refid=3DP=
+MABANDON_AIR&refclickid=3D20120706|RCDEALS_PRICE&batchId=3D245606&sendId=3D=
+19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABAN=
+DON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E2=
+32E179DAC6F' alias=3D'RCDEALS_PRICE' style=3D'vertical-align: top; text-dec=
+oration: none; font-weight: bold; font-family: arial; font-size: 26px; colo=
+r: rgb(10, 133, 193);'> $15 <br> <span style=3D'text-decoration: none; font=
+-weight: normal; font-size: 12px;'> per day<br> </span> </a> <a style=3D've=
+rtical-align: top; text-decoration: none; font-family: arial; font-size: 14=
+px; color: rgb(10, 133, 193);' alias=3D'RCDEALS_BOOKNOW' href=3D'http://jum=
+p.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DSFB&VECHCLASS=3DIC=
+AR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&D=
+ropoffTime=3D&DropoffLoc=3DSFB&refid=3DPMABANDON_AIR&refclickid=3D20120706|=
+RCDEALS_BOOKNOW&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_=
+AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C65=
+8F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F'> <img src=3D'http://=
+img1.priceline.com/ets/aband/chooseButton.gif' height=3D'20' width=3D'60' b=
+order=3D'0' alt=3D'choose' style=3D'display:block;'></a> </a> </td> </tr> <=
+/tbody></table><table width=3D'405' bgcolor=3D'#ffffff' id=3D'row1_begin' s=
+tyle=3D'border-bottom: 1px solid rgb(217, 218, 222); border-right: 1px soli=
+d rgb(217, 218, 222); border-left: 1px;solid rgb(217, 218, 222);'> <tbody> =
+<tr> <td width=3D'120' align=3D'center' style=3D'padding-bottom: 1px;'> <a =
+href=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3D=
+SFB&VECHCLASS=3DSCAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F20=
+12&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DSFB&refid=3DPMABANDON_AIR&refc=
+lickid=3D20120706|RCDEALS_IMG&batchId=3D245606&sendId=3D19781188205&utm_sou=
+rce=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=
+=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=
+=3D'RCDEALS_IMG'> <img width=3D'100' height=3D'53' border=3D'0' src=3D'http=
+://img1.priceline.com/ets/aband/CAR_SCAR.jpg' style=3D'display: block;'> </=
+a> </td> <td width=3D'175' align=3D'left' style=3D'padding: 0px 0px 1px 5px=
+;'> <a href=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&Picku=
+pLoc=3DSFB&VECHCLASS=3DSCAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F=
+25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DSFB&refid=3DPMABANDON_A=
+IR&refclickid=3D20120706|RCDEALS_TITLE&batchId=3D245606&sendId=3D1978118820=
+5&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20=
+120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6=
+F' alias=3D'RCDEALS_TITLE' style=3D'vertical-align: top; text-decoration: n=
+one; font-weight: bold; font-family: arial; font-size: 16px; color: rgb(10,=
+ 133, 193);'> Standard Car - <span style=3D'font-size: 14px;'>(SFB)<br> <sp=
+an style=3D'font-size: 12px; color: black; text-decoration: none; font-weig=
+ht: normal;'> One of our customers just booked a Standard Car in Orlando fo=
+r $18 a day. </span> </span> </a> </td> <td width=3D'70' align=3D'center' s=
+tyle=3D'padding-bottom: 1px;'> <a href=3D'http://jump.priceline.com/qp.asp?=
+omc=3DO&ProductID=3D8&PickupLoc=3DSFB&VECHCLASS=3DSCAR&PickupDate=3D07%2F18=
+%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLo=
+c=3DSFB&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_PRICE&batchId=
+=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&=
+utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86=
+DEB55117191536408E232E179DAC6F' alias=3D'RCDEALS_PRICE' style=3D'vertical-a=
+lign: top; text-decoration: none; font-weight: bold; font-family: arial; fo=
+nt-size: 26px; color: rgb(10, 133, 193);'> $18 <br> <span style=3D'text-dec=
+oration: none; font-weight: normal; font-size: 12px;'> per day<br> </span> =
+</a> <a style=3D'vertical-align: top; text-decoration: none; font-family: a=
+rial; font-size: 14px; color: rgb(10, 133, 193);' alias=3D'RCDEALS_BOOKNOW'=
+ href=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=
+=3DSFB&VECHCLASS=3DSCAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2=
+F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DSFB&refid=3DPMABANDON_AIR&r=
+efclickid=3D20120706|RCDEALS_BOOKNOW&batchId=3D245606&sendId=3D19781188205&=
+utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_2012=
+0706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F'=
+> <img src=3D'http://img1.priceline.com/ets/aband/chooseButton.gif' height=
+=3D'20' width=3D'60' border=3D'0' alt=3D'choose' style=3D'display:block;'><=
+/a> </a> </td> </tr> </tbody></table><table width=3D'405' bgcolor=3D'#fffff=
+f' id=3D'row1_begin' style=3D'border-bottom: 1px solid rgb(217, 218, 222); =
+border-right: 1px solid rgb(217, 218, 222); border-left: 1px;solid rgb(217,=
+ 218, 222);'> <tbody> <tr> <td width=3D'120' align=3D'center' style=3D'padd=
+ing-bottom: 1px;'> <a href=3D'http://jump.priceline.com/qp.asp?omc=3DO&Prod=
+uctID=3D8&PickupLoc=3DSFB&VECHCLASS=3DMVAR&PickupDate=3D07%2F18%2F2012&Drop=
+offDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DSFB&refi=
+d=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_IMG&batchId=3D245606&sendId=
+=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DA=
+BANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB5511719153640=
+8E232E179DAC6F' alias=3D'RCDEALS_IMG'> <img width=3D'100' height=3D'53' bor=
+der=3D'0' src=3D'http://img1.priceline.com/ets/aband/CAR_MVAR.jpg' style=3D=
+'display: block;'> </a> </td> <td width=3D'175' align=3D'left' style=3D'pad=
+ding: 0px 0px 1px 5px;'> <a href=3D'http://jump.priceline.com/qp.asp?omc=3D=
+O&ProductID=3D8&PickupLoc=3DSFB&VECHCLASS=3DMVAR&PickupDate=3D07%2F18%2F201=
+2&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DSF=
+B&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_TITLE&batchId=3D24560=
+6&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_camp=
+aign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117=
+191536408E232E179DAC6F' alias=3D'RCDEALS_TITLE' style=3D'vertical-align: to=
+p; text-decoration: none; font-weight: bold; font-family: arial; font-size:=
+ 16px; color: rgb(10, 133, 193);'> MiniVan - <span style=3D'font-size: 14px=
+;'>(SFB)<br> <span style=3D'font-size: 12px; color: black; text-decoration:=
+ none; font-weight: normal;'> One of our customers just booked a MiniVan in=
+ Orlando for $55 a day. </span> </span> </a> </td> <td width=3D'70' align=
+=3D'center' style=3D'padding-bottom: 1px;'> <a href=3D'http://jump.pricelin=
+e.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DSFB&VECHCLASS=3DMVAR&PickupD=
+ate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=
+=3D&DropoffLoc=3DSFB&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_PR=
+ICE&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medi=
+um=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF5=
+52A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'RCDEALS_PRICE' style=3D=
+'vertical-align: top; text-decoration: none; font-weight: bold; font-family=
+: arial; font-size: 26px; color: rgb(10, 133, 193);'> $55 <br> <span style=
+=3D'text-decoration: none; font-weight: normal; font-size: 12px;'> per day<=
+br> </span> </a> <a style=3D'vertical-align: top; text-decoration: none; fo=
+nt-family: arial; font-size: 14px; color: rgb(10, 133, 193);' alias=3D'RCDE=
+ALS_BOOKNOW' href=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8=
+&PickupLoc=3DSFB&VECHCLASS=3DMVAR&PickupDate=3D07%2F18%2F2012&DropoffDate=
+=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DSFB&refid=3DPMA=
+BANDON_AIR&refclickid=3D20120706|RCDEALS_BOOKNOW&batchId=3D245606&sendId=3D=
+19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABAN=
+DON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E2=
+32E179DAC6F'> <img src=3D'http://img1.priceline.com/ets/aband/chooseButton.=
+gif' height=3D'20' width=3D'60' border=3D'0' alt=3D'choose' style=3D'displa=
+y:block;'></a> </a> </td> </tr> </tbody></table><table width=3D'405' bgcolo=
+r=3D'#ffffff' id=3D'row1_begin' style=3D'border-bottom: 1px solid rgb(217, =
+218, 222); border-right: 1px solid rgb(217, 218, 222); border-left: 1px;sol=
+id rgb(217, 218, 222);'> <tbody> <tr> <td width=3D'120' align=3D'center' st=
+yle=3D'padding-bottom: 1px;'> <a href=3D'http://jump.priceline.com/qp.asp?o=
+mc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DCCAR&PickupDate=3D07%2F18%=
+2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=
+=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_IMG&batchId=3D24=
+5606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_c=
+ampaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55=
+117191536408E232E179DAC6F' alias=3D'RCDEALS_IMG'> <img width=3D'100' height=
+=3D'53' border=3D'0' src=3D'http://img1.priceline.com/ets/aband/CAR_CCAR.jp=
+g' style=3D'display: block;'> </a> </td> <td width=3D'175' align=3D'left' s=
+tyle=3D'padding: 0px 0px 1px 5px;'> <a href=3D'http://jump.priceline.com/qp=
+.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DCCAR&PickupDate=3D07=
+%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&Drop=
+offLoc=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_TITLE&batc=
+hId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Dema=
+il&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673C=
+D86DEB55117191536408E232E179DAC6F' alias=3D'RCDEALS_TITLE' style=3D'vertica=
+l-align: top; text-decoration: none; font-weight: bold; font-family: arial;=
+ font-size: 16px; color: rgb(10, 133, 193);'> Compact Car - <span style=3D'=
+font-size: 14px;'>(MCO)<br> <span style=3D'font-size: 12px; color: black; t=
+ext-decoration: none; font-weight: normal;'> One of our customers just book=
+ed a Compact Car in Orlando for $15 a day. </span> </span> </a> </td> <td w=
+idth=3D'70' align=3D'center' style=3D'padding-bottom: 1px;'> <a href=3D'htt=
+p://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLA=
+SS=3DCCAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTi=
+me=3D&DropoffTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20=
+120706|RCDEALS_PRICE&batchId=3D245606&sendId=3D19781188205&utm_source=3DABA=
+NDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DC=
+A6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'RCDEAL=
+S_PRICE' style=3D'vertical-align: top; text-decoration: none; font-weight: =
+bold; font-family: arial; font-size: 26px; color: rgb(10, 133, 193);'> $15 =
+<br> <span style=3D'text-decoration: none; font-weight: normal; font-size: =
+12px;'> per day<br> </span> </a> <a style=3D'vertical-align: top; text-deco=
+ration: none; font-family: arial; font-size: 14px; color: rgb(10, 133, 193)=
+;' alias=3D'RCDEALS_BOOKNOW' href=3D'http://jump.priceline.com/qp.asp?omc=
+=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DCCAR&PickupDate=3D07%2F18%2F=
+2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=
+=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_BOOKNOW&batchId=
+=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&=
+utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86=
+DEB55117191536408E232E179DAC6F'> <img src=3D'http://img1.priceline.com/ets/=
+aband/chooseButton.gif' height=3D'20' width=3D'60' border=3D'0' alt=3D'choo=
+se' style=3D'display:block;'></a> </a> </td> </tr> </tbody></table><table w=
+idth=3D'405' bgcolor=3D'#ffffff' id=3D'row1_begin' style=3D'border-bottom: =
+1px solid rgb(217, 218, 222); border-right: 1px solid rgb(217, 218, 222); b=
+order-left: 1px;solid rgb(217, 218, 222);'> <tbody> <tr> <td width=3D'120' =
+align=3D'center' style=3D'padding-bottom: 1px;'> <a href=3D'http://jump.pri=
+celine.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DFCAR&Pi=
+ckupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&Dropof=
+fTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEA=
+LS_IMG&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_m=
+edium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273=
+FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'RCDEALS_IMG'> <img w=
+idth=3D'100' height=3D'53' border=3D'0' src=3D'http://img1.priceline.com/et=
+s/aband/CAR_FCAR.jpg' style=3D'display: block;'> </a> </td> <td width=3D'17=
+5' align=3D'left' style=3D'padding: 0px 0px 1px 5px;'> <a href=3D'http://ju=
+mp.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DF=
+CAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&=
+DropoffTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706=
+|RCDEALS_TITLE&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_A=
+IR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658=
+F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'RCDEALS_TITL=
+E' style=3D'vertical-align: top; text-decoration: none; font-weight: bold; =
+font-family: arial; font-size: 16px; color: rgb(10, 133, 193);'> Full-Size =
+Car - <span style=3D'font-size: 14px;'>(MCO)<br> <span style=3D'font-size: =
+12px; color: black; text-decoration: none; font-weight: normal;'> One of ou=
+r customers just booked a Full-Size Car in Orlando for $15 a day. </span> <=
+/span> </a> </td> <td width=3D'70' align=3D'center' style=3D'padding-bottom=
+: 1px;'> <a href=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&=
+PickupLoc=3DMCO&VECHCLASS=3DFCAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D=
+07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DMCO&refid=3DPMABAN=
+DON_AIR&refclickid=3D20120706|RCDEALS_PRICE&batchId=3D245606&sendId=3D19781=
+188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_A=
+IR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E17=
+9DAC6F' alias=3D'RCDEALS_PRICE' style=3D'vertical-align: top; text-decorati=
+on: none; font-weight: bold; font-family: arial; font-size: 26px; color: rg=
+b(10, 133, 193);'> $15 <br> <span style=3D'text-decoration: none; font-weig=
+ht: normal; font-size: 12px;'> per day<br> </span> </a> <a style=3D'vertica=
+l-align: top; text-decoration: none; font-family: arial; font-size: 14px; c=
+olor: rgb(10, 133, 193);' alias=3D'RCDEALS_BOOKNOW' href=3D'http://jump.pri=
+celine.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DFCAR&Pi=
+ckupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&Dropof=
+fTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEA=
+LS_BOOKNOW&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&u=
+tm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B2=
+8273FF552A5673CD86DEB55117191536408E232E179DAC6F'> <img src=3D'http://img1.=
+priceline.com/ets/aband/chooseButton.gif' height=3D'20' width=3D'60' border=
+=3D'0' alt=3D'choose' style=3D'display:block;'></a> </a> </td> </tr> </tbod=
+y></table><table width=3D'405' bgcolor=3D'#ffffff' id=3D'row1_begin' style=
+=3D'border-bottom: 1px solid rgb(217, 218, 222); border-right: 1px solid rg=
+b(217, 218, 222); border-left: 1px;solid rgb(217, 218, 222);'> <tbody> <tr>=
+ <td width=3D'120' align=3D'center' style=3D'padding-bottom: 1px;'> <a href=
+=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&=
+VECHCLASS=3DICAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&P=
+ickupTime=3D&DropoffTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refclick=
+id=3D20120706|RCDEALS_IMG&batchId=3D245606&sendId=3D19781188205&utm_source=
+=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3D=
+E980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'=
+RCDEALS_IMG'> <img width=3D'100' height=3D'53' border=3D'0' src=3D'http://i=
+mg1.priceline.com/ets/aband/CAR_ICAR.jpg' style=3D'display: block;'> </a> <=
+/td> <td width=3D'175' align=3D'left' style=3D'padding: 0px 0px 1px 5px;'> =
+<a href=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=
+=3DMCO&VECHCLASS=3DICAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2=
+F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&r=
+efclickid=3D20120706|RCDEALS_TITLE&batchId=3D245606&sendId=3D19781188205&ut=
+m_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_201207=
+06&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' a=
+lias=3D'RCDEALS_TITLE' style=3D'vertical-align: top; text-decoration: none;=
+ font-weight: bold; font-family: arial; font-size: 16px; color: rgb(10, 133=
+, 193);'> Mid-Size Car - <span style=3D'font-size: 14px;'>(MCO)<br> <span s=
+tyle=3D'font-size: 12px; color: black; text-decoration: none; font-weight: =
+normal;'> One of our customers just booked a Mid-Size Car in Orlando for $1=
+5 a day. </span> </span> </a> </td> <td width=3D'70' align=3D'center' style=
+=3D'padding-bottom: 1px;'> <a href=3D'http://jump.priceline.com/qp.asp?omc=
+=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DICAR&PickupDate=3D07%2F18%2F=
+2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=
+=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_PRICE&batchId=3D=
+245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm=
+_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB=
+55117191536408E232E179DAC6F' alias=3D'RCDEALS_PRICE' style=3D'vertical-alig=
+n: top; text-decoration: none; font-weight: bold; font-family: arial; font-=
+size: 26px; color: rgb(10, 133, 193);'> $15 <br> <span style=3D'text-decora=
+tion: none; font-weight: normal; font-size: 12px;'> per day<br> </span> </a=
+> <a style=3D'vertical-align: top; text-decoration: none; font-family: aria=
+l; font-size: 14px; color: rgb(10, 133, 193);' alias=3D'RCDEALS_BOOKNOW' hr=
+ef=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMC=
+O&VECHCLASS=3DICAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012=
+&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refcli=
+ckid=3D20120706|RCDEALS_BOOKNOW&batchId=3D245606&sendId=3D19781188205&utm_s=
+ource=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&=
+ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F'> <im=
+g src=3D'http://img1.priceline.com/ets/aband/chooseButton.gif' height=3D'20=
+' width=3D'60' border=3D'0' alt=3D'choose' style=3D'display:block;'></a> </=
+a> </td> </tr> </tbody></table><table width=3D'405' bgcolor=3D'#ffffff' id=
+=3D'row1_begin' style=3D'border-bottom: 1px solid rgb(217, 218, 222); borde=
+r-right: 1px solid rgb(217, 218, 222); border-left: 1px;solid rgb(217, 218,=
+ 222);'> <tbody> <tr> <td width=3D'120' align=3D'center' style=3D'padding-b=
+ottom: 1px;'> <a href=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=
+=3D8&PickupLoc=3DMCO&VECHCLASS=3DECAR&PickupDate=3D07%2F18%2F2012&DropoffDa=
+te=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DMCO&refid=3DP=
+MABANDON_AIR&refclickid=3D20120706|RCDEALS_IMG&batchId=3D245606&sendId=3D19=
+781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDO=
+N_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232=
+E179DAC6F' alias=3D'RCDEALS_IMG'> <img width=3D'100' height=3D'53' border=
+=3D'0' src=3D'http://img1.priceline.com/ets/aband/CAR_ECAR.jpg' style=3D'di=
+splay: block;'> </a> </td> <td width=3D'175' align=3D'left' style=3D'paddin=
+g: 0px 0px 1px 5px;'> <a href=3D'http://jump.priceline.com/qp.asp?omc=3DO&P=
+roductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DECAR&PickupDate=3D07%2F18%2F2012&D=
+ropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DMCO&r=
+efid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_TITLE&batchId=3D245606&s=
+endId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaig=
+n=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191=
+536408E232E179DAC6F' alias=3D'RCDEALS_TITLE' style=3D'vertical-align: top; =
+text-decoration: none; font-weight: bold; font-family: arial; font-size: 16=
+px; color: rgb(10, 133, 193);'> Economy Car - <span style=3D'font-size: 14p=
+x;'>(MCO)<br> <span style=3D'font-size: 12px; color: black; text-decoration=
+: none; font-weight: normal;'> One of our customers just booked a Economy C=
+ar in Orlando for $19 a day. </span> </span> </a> </td> <td width=3D'70' al=
+ign=3D'center' style=3D'padding-bottom: 1px;'> <a href=3D'http://jump.price=
+line.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DECAR&Pick=
+upDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffT=
+ime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS=
+_PRICE&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_m=
+edium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273=
+FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'RCDEALS_PRICE' style=
+=3D'vertical-align: top; text-decoration: none; font-weight: bold; font-fam=
+ily: arial; font-size: 26px; color: rgb(10, 133, 193);'> $19 <br> <span sty=
+le=3D'text-decoration: none; font-weight: normal; font-size: 12px;'> per da=
+y<br> </span> </a> <a style=3D'vertical-align: top; text-decoration: none; =
+font-family: arial; font-size: 14px; color: rgb(10, 133, 193);' alias=3D'RC=
+DEALS_BOOKNOW' href=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=
+=3D8&PickupLoc=3DMCO&VECHCLASS=3DECAR&PickupDate=3D07%2F18%2F2012&DropoffDa=
+te=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DMCO&refid=3DP=
+MABANDON_AIR&refclickid=3D20120706|RCDEALS_BOOKNOW&batchId=3D245606&sendId=
+=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DA=
+BANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB5511719153640=
+8E232E179DAC6F'> <img src=3D'http://img1.priceline.com/ets/aband/chooseButt=
+on.gif' height=3D'20' width=3D'60' border=3D'0' alt=3D'choose' style=3D'dis=
+play:block;'></a> </a> </td> </tr> </tbody></table><table width=3D'405' bgc=
+olor=3D'#ffffff' id=3D'row1_begin' style=3D'border-bottom: 1px solid rgb(21=
+7, 218, 222); border-right: 1px solid rgb(217, 218, 222); border-left: 1px;=
+solid rgb(217, 218, 222);'> <tbody> <tr> <td width=3D'120' align=3D'center'=
+ style=3D'padding-bottom: 1px;'> <a href=3D'http://jump.priceline.com/qp.as=
+p?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DIFAR&PickupDate=3D07%2F=
+18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&Dropoff=
+Loc=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_IMG&batchId=
+=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&=
+utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86=
+DEB55117191536408E232E179DAC6F' alias=3D'RCDEALS_IMG'> <img width=3D'100' h=
+eight=3D'53' border=3D'0' src=3D'http://img1.priceline.com/ets/aband/CAR_IF=
+AR.jpg' style=3D'display: block;'> </a> </td> <td width=3D'175' align=3D'le=
+ft' style=3D'padding: 0px 0px 1px 5px;'> <a href=3D'http://jump.priceline.c=
+om/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DIFAR&PickupDate=
+=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D=
+&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_TITLE=
+&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=
+=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552=
+A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'RCDEALS_TITLE' style=3D'v=
+ertical-align: top; text-decoration: none; font-weight: bold; font-family: =
+arial; font-size: 16px; color: rgb(10, 133, 193);'> Mid-Size SUV - <span st=
+yle=3D'font-size: 14px;'>(MCO)<br> <span style=3D'font-size: 12px; color: b=
+lack; text-decoration: none; font-weight: normal;'> One of our customers ju=
+st booked a Mid-Size SUV in Orlando for $19 a day. </span> </span> </a> </t=
+d> <td width=3D'70' align=3D'center' style=3D'padding-bottom: 1px;'> <a hre=
+f=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO=
+&VECHCLASS=3DIFAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&=
+PickupTime=3D&DropoffTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refclic=
+kid=3D20120706|RCDEALS_PRICE&batchId=3D245606&sendId=3D19781188205&utm_sour=
+ce=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=
+=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=
+=3D'RCDEALS_PRICE' style=3D'vertical-align: top; text-decoration: none; fon=
+t-weight: bold; font-family: arial; font-size: 26px; color: rgb(10, 133, 19=
+3);'> $19 <br> <span style=3D'text-decoration: none; font-weight: normal; f=
+ont-size: 12px;'> per day<br> </span> </a> <a style=3D'vertical-align: top;=
+ text-decoration: none; font-family: arial; font-size: 14px; color: rgb(10,=
+ 133, 193);' alias=3D'RCDEALS_BOOKNOW' href=3D'http://jump.priceline.com/qp=
+.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DIFAR&PickupDate=3D07=
+%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&Drop=
+offLoc=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_BOOKNOW&ba=
+tchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3De=
+mail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A567=
+3CD86DEB55117191536408E232E179DAC6F'> <img src=3D'http://img1.priceline.com=
+/ets/aband/chooseButton.gif' height=3D'20' width=3D'60' border=3D'0' alt=3D=
+'choose' style=3D'display:block;'></a> </a> </td> </tr> </tbody></table><ta=
+ble width=3D'405' bgcolor=3D'#ffffff' id=3D'row1_begin' style=3D'border-bot=
+tom: 1px solid rgb(217, 218, 222); border-right: 1px solid rgb(217, 218, 22=
+2); border-left: 1px;solid rgb(217, 218, 222);'> <tbody> <tr> <td width=3D'=
+120' align=3D'center' style=3D'padding-bottom: 1px;'> <a href=3D'http://jum=
+p.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DSC=
+AR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&D=
+ropoffTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706|=
+RCDEALS_IMG&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&=
+utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B=
+28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'RCDEALS_IMG'> <=
+img width=3D'100' height=3D'53' border=3D'0' src=3D'http://img1.priceline.c=
+om/ets/aband/CAR_SCAR.jpg' style=3D'display: block;'> </a> </td> <td width=
+=3D'175' align=3D'left' style=3D'padding: 0px 0px 1px 5px;'> <a href=3D'htt=
+p://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLA=
+SS=3DSCAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTi=
+me=3D&DropoffTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20=
+120706|RCDEALS_TITLE&batchId=3D245606&sendId=3D19781188205&utm_source=3DABA=
+NDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DC=
+A6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'RCDEAL=
+S_TITLE' style=3D'vertical-align: top; text-decoration: none; font-weight: =
+bold; font-family: arial; font-size: 16px; color: rgb(10, 133, 193);'> Stan=
+dard Car - <span style=3D'font-size: 14px;'>(MCO)<br> <span style=3D'font-s=
+ize: 12px; color: black; text-decoration: none; font-weight: normal;'> One =
+of our customers just booked a Standard Car in Orlando for $19 a day. </spa=
+n> </span> </a> </td> <td width=3D'70' align=3D'center' style=3D'padding-bo=
+ttom: 1px;'> <a href=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=
+=3D8&PickupLoc=3DMCO&VECHCLASS=3DSCAR&PickupDate=3D07%2F18%2F2012&DropoffDa=
+te=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DMCO&refid=3DP=
+MABANDON_AIR&refclickid=3D20120706|RCDEALS_PRICE&batchId=3D245606&sendId=3D=
+19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABAN=
+DON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E2=
+32E179DAC6F' alias=3D'RCDEALS_PRICE' style=3D'vertical-align: top; text-dec=
+oration: none; font-weight: bold; font-family: arial; font-size: 26px; colo=
+r: rgb(10, 133, 193);'> $19 <br> <span style=3D'text-decoration: none; font=
+-weight: normal; font-size: 12px;'> per day<br> </span> </a> <a style=3D've=
+rtical-align: top; text-decoration: none; font-family: arial; font-size: 14=
+px; color: rgb(10, 133, 193);' alias=3D'RCDEALS_BOOKNOW' href=3D'http://jum=
+p.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DSC=
+AR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&D=
+ropoffTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706|=
+RCDEALS_BOOKNOW&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_=
+AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C65=
+8F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F'> <img src=3D'http://=
+img1.priceline.com/ets/aband/chooseButton.gif' height=3D'20' width=3D'60' b=
+order=3D'0' alt=3D'choose' style=3D'display:block;'></a> </a> </td> </tr> <=
+/tbody></table><table width=3D'405' bgcolor=3D'#ffffff' id=3D'row1_begin' s=
+tyle=3D'border-bottom: 1px solid rgb(217, 218, 222); border-right: 1px soli=
+d rgb(217, 218, 222); border-left: 1px;solid rgb(217, 218, 222);'> <tbody> =
+<tr> <td width=3D'120' align=3D'center' style=3D'padding-bottom: 1px;'> <a =
+href=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3D=
+MCO&VECHCLASS=3DSFAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F20=
+12&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refc=
+lickid=3D20120706|RCDEALS_IMG&batchId=3D245606&sendId=3D19781188205&utm_sou=
+rce=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=
+=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=
+=3D'RCDEALS_IMG'> <img width=3D'100' height=3D'53' border=3D'0' src=3D'http=
+://img1.priceline.com/ets/aband/CAR_SFAR.jpg' style=3D'display: block;'> </=
+a> </td> <td width=3D'175' align=3D'left' style=3D'padding: 0px 0px 1px 5px=
+;'> <a href=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&Picku=
+pLoc=3DMCO&VECHCLASS=3DSFAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F=
+25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_A=
+IR&refclickid=3D20120706|RCDEALS_TITLE&batchId=3D245606&sendId=3D1978118820=
+5&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20=
+120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6=
+F' alias=3D'RCDEALS_TITLE' style=3D'vertical-align: top; text-decoration: n=
+one; font-weight: bold; font-family: arial; font-size: 16px; color: rgb(10,=
+ 133, 193);'> Standard SUV - <span style=3D'font-size: 14px;'>(MCO)<br> <sp=
+an style=3D'font-size: 12px; color: black; text-decoration: none; font-weig=
+ht: normal;'> One of our customers just booked a Standard SUV in Orlando fo=
+r $25 a day. </span> </span> </a> </td> <td width=3D'70' align=3D'center' s=
+tyle=3D'padding-bottom: 1px;'> <a href=3D'http://jump.priceline.com/qp.asp?=
+omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DSFAR&PickupDate=3D07%2F18=
+%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLo=
+c=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_PRICE&batchId=
+=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&=
+utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86=
+DEB55117191536408E232E179DAC6F' alias=3D'RCDEALS_PRICE' style=3D'vertical-a=
+lign: top; text-decoration: none; font-weight: bold; font-family: arial; fo=
+nt-size: 26px; color: rgb(10, 133, 193);'> $25 <br> <span style=3D'text-dec=
+oration: none; font-weight: normal; font-size: 12px;'> per day<br> </span> =
+</a> <a style=3D'vertical-align: top; text-decoration: none; font-family: a=
+rial; font-size: 14px; color: rgb(10, 133, 193);' alias=3D'RCDEALS_BOOKNOW'=
+ href=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=
+=3DMCO&VECHCLASS=3DSFAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2=
+F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&r=
+efclickid=3D20120706|RCDEALS_BOOKNOW&batchId=3D245606&sendId=3D19781188205&=
+utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_2012=
+0706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F'=
+> <img src=3D'http://img1.priceline.com/ets/aband/chooseButton.gif' height=
+=3D'20' width=3D'60' border=3D'0' alt=3D'choose' style=3D'display:block;'><=
+/a> </a> </td> </tr> </tbody></table><table width=3D'405' bgcolor=3D'#fffff=
+f' id=3D'row1_begin' style=3D'border-bottom: 1px solid rgb(217, 218, 222); =
+border-right: 1px solid rgb(217, 218, 222); border-left: 1px;solid rgb(217,=
+ 218, 222);'> <tbody> <tr> <td width=3D'120' align=3D'center' style=3D'padd=
+ing-bottom: 1px;'> <a href=3D'http://jump.priceline.com/qp.asp?omc=3DO&Prod=
+uctID=3D8&PickupLoc=3DMCO&VECHCLASS=3DPCAR&PickupDate=3D07%2F18%2F2012&Drop=
+offDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DMCO&refi=
+d=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_IMG&batchId=3D245606&sendId=
+=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DA=
+BANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB5511719153640=
+8E232E179DAC6F' alias=3D'RCDEALS_IMG'> <img width=3D'100' height=3D'53' bor=
+der=3D'0' src=3D'http://img1.priceline.com/ets/aband/CAR_PCAR.jpg' style=3D=
+'display: block;'> </a> </td> <td width=3D'175' align=3D'left' style=3D'pad=
+ding: 0px 0px 1px 5px;'> <a href=3D'http://jump.priceline.com/qp.asp?omc=3D=
+O&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DPCAR&PickupDate=3D07%2F18%2F201=
+2&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DMC=
+O&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_TITLE&batchId=3D24560=
+6&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_camp=
+aign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117=
+191536408E232E179DAC6F' alias=3D'RCDEALS_TITLE' style=3D'vertical-align: to=
+p; text-decoration: none; font-weight: bold; font-family: arial; font-size:=
+ 16px; color: rgb(10, 133, 193);'> Premium Car - <span style=3D'font-size: =
+14px;'>(MCO)<br> <span style=3D'font-size: 12px; color: black; text-decorat=
+ion: none; font-weight: normal;'> One of our customers just booked a Premiu=
+m Car in Orlando for $30 a day. </span> </span> </a> </td> <td width=3D'70'=
+ align=3D'center' style=3D'padding-bottom: 1px;'> <a href=3D'http://jump.pr=
+iceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DPCAR&P=
+ickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&Dropo=
+ffTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDE=
+ALS_PRICE&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&ut=
+m_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28=
+273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'RCDEALS_PRICE' st=
+yle=3D'vertical-align: top; text-decoration: none; font-weight: bold; font-=
+family: arial; font-size: 26px; color: rgb(10, 133, 193);'> $30 <br> <span =
+style=3D'text-decoration: none; font-weight: normal; font-size: 12px;'> per=
+ day<br> </span> </a> <a style=3D'vertical-align: top; text-decoration: non=
+e; font-family: arial; font-size: 14px; color: rgb(10, 133, 193);' alias=3D=
+'RCDEALS_BOOKNOW' href=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductI=
+D=3D8&PickupLoc=3DMCO&VECHCLASS=3DPCAR&PickupDate=3D07%2F18%2F2012&DropoffD=
+ate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DMCO&refid=3D=
+PMABANDON_AIR&refclickid=3D20120706|RCDEALS_BOOKNOW&batchId=3D245606&sendId=
+=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DA=
+BANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB5511719153640=
+8E232E179DAC6F'> <img src=3D'http://img1.priceline.com/ets/aband/chooseButt=
+on.gif' height=3D'20' width=3D'60' border=3D'0' alt=3D'choose' style=3D'dis=
+play:block;'></a> </a> </td> </tr> </tbody></table><table width=3D'405' bgc=
+olor=3D'#ffffff' id=3D'row1_begin' style=3D'border-bottom: 1px solid rgb(21=
+7, 218, 222); border-right: 1px solid rgb(217, 218, 222); border-left: 1px;=
+solid rgb(217, 218, 222);'> <tbody> <tr> <td width=3D'120' align=3D'center'=
+ style=3D'padding-bottom: 1px;'> <a href=3D'http://jump.priceline.com/qp.as=
+p?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DMVAR&PickupDate=3D07%2F=
+18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&Dropoff=
+Loc=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_IMG&batchId=
+=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&=
+utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86=
+DEB55117191536408E232E179DAC6F' alias=3D'RCDEALS_IMG'> <img width=3D'100' h=
+eight=3D'53' border=3D'0' src=3D'http://img1.priceline.com/ets/aband/CAR_MV=
+AR.jpg' style=3D'display: block;'> </a> </td> <td width=3D'175' align=3D'le=
+ft' style=3D'padding: 0px 0px 1px 5px;'> <a href=3D'http://jump.priceline.c=
+om/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DMVAR&PickupDate=
+=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D=
+&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_TITLE=
+&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=
+=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552=
+A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'RCDEALS_TITLE' style=3D'v=
+ertical-align: top; text-decoration: none; font-weight: bold; font-family: =
+arial; font-size: 16px; color: rgb(10, 133, 193);'> MiniVan - <span style=
+=3D'font-size: 14px;'>(MCO)<br> <span style=3D'font-size: 12px; color: blac=
+k; text-decoration: none; font-weight: normal;'> One of our customers just =
+booked a MiniVan in Orlando for $35 a day. </span> </span> </a> </td> <td w=
+idth=3D'70' align=3D'center' style=3D'padding-bottom: 1px;'> <a href=3D'htt=
+p://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLA=
+SS=3DMVAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTi=
+me=3D&DropoffTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20=
+120706|RCDEALS_PRICE&batchId=3D245606&sendId=3D19781188205&utm_source=3DABA=
+NDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DC=
+A6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'RCDEAL=
+S_PRICE' style=3D'vertical-align: top; text-decoration: none; font-weight: =
+bold; font-family: arial; font-size: 26px; color: rgb(10, 133, 193);'> $35 =
+<br> <span style=3D'text-decoration: none; font-weight: normal; font-size: =
+12px;'> per day<br> </span> </a> <a style=3D'vertical-align: top; text-deco=
+ration: none; font-family: arial; font-size: 14px; color: rgb(10, 133, 193)=
+;' alias=3D'RCDEALS_BOOKNOW' href=3D'http://jump.priceline.com/qp.asp?omc=
+=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DMVAR&PickupDate=3D07%2F18%2F=
+2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=
+=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_BOOKNOW&batchId=
+=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&=
+utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86=
+DEB55117191536408E232E179DAC6F'> <img src=3D'http://img1.priceline.com/ets/=
+aband/chooseButton.gif' height=3D'20' width=3D'60' border=3D'0' alt=3D'choo=
+se' style=3D'display:block;'></a> </a> </td> </tr> </tbody></table><table w=
+idth=3D'405' bgcolor=3D'#ffffff' id=3D'row1_begin' style=3D'border-bottom: =
+1px solid rgb(217, 218, 222); border-right: 1px solid rgb(217, 218, 222); b=
+order-left: 1px;solid rgb(217, 218, 222);'> <tbody> <tr> <td width=3D'120' =
+align=3D'center' style=3D'padding-bottom: 1px;'> <a href=3D'http://jump.pri=
+celine.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DLCAR&Pi=
+ckupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&Dropof=
+fTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEA=
+LS_IMG&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_m=
+edium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273=
+FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'RCDEALS_IMG'> <img w=
+idth=3D'100' height=3D'53' border=3D'0' src=3D'http://img1.priceline.com/et=
+s/aband/CAR_LCAR.jpg' style=3D'display: block;'> </a> </td> <td width=3D'17=
+5' align=3D'left' style=3D'padding: 0px 0px 1px 5px;'> <a href=3D'http://ju=
+mp.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DL=
+CAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&=
+DropoffTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706=
+|RCDEALS_TITLE&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_A=
+IR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658=
+F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'RCDEALS_TITL=
+E' style=3D'vertical-align: top; text-decoration: none; font-weight: bold; =
+font-family: arial; font-size: 16px; color: rgb(10, 133, 193);'> Luxury Car=
+ - <span style=3D'font-size: 14px;'>(MCO)<br> <span style=3D'font-size: 12p=
+x; color: black; text-decoration: none; font-weight: normal;'> One of our c=
+ustomers just booked a Luxury Car in Orlando for $50 a day. </span> </span>=
+ </a> </td> <td width=3D'70' align=3D'center' style=3D'padding-bottom: 1px;=
+'> <a href=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&Pickup=
+Loc=3DMCO&VECHCLASS=3DLCAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F2=
+5%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AI=
+R&refclickid=3D20120706|RCDEALS_PRICE&batchId=3D245606&sendId=3D19781188205=
+&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_201=
+20706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F=
+' alias=3D'RCDEALS_PRICE' style=3D'vertical-align: top; text-decoration: no=
+ne; font-weight: bold; font-family: arial; font-size: 26px; color: rgb(10, =
+133, 193);'> $50 <br> <span style=3D'text-decoration: none; font-weight: no=
+rmal; font-size: 12px;'> per day<br> </span> </a> <a style=3D'vertical-alig=
+n: top; text-decoration: none; font-family: arial; font-size: 14px; color: =
+rgb(10, 133, 193);' alias=3D'RCDEALS_BOOKNOW' href=3D'http://jump.priceline=
+.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DLCAR&PickupDa=
+te=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=
+=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_BO=
+OKNOW&batchId=3D245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_me=
+dium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273F=
+F552A5673CD86DEB55117191536408E232E179DAC6F'> <img src=3D'http://img1.price=
+line.com/ets/aband/chooseButton.gif' height=3D'20' width=3D'60' border=3D'0=
+' alt=3D'choose' style=3D'display:block;'></a> </a> </td> </tr> </tbody></t=
+able><table width=3D'405' bgcolor=3D'#ffffff' id=3D'row1_begin' style=3D'bo=
+rder-bottom: 1px solid rgb(217, 218, 222); border-right: 1px solid rgb(217,=
+ 218, 222); border-left: 1px;solid rgb(217, 218, 222);'> <tbody> <tr> <td w=
+idth=3D'120' align=3D'center' style=3D'padding-bottom: 1px;'> <a href=3D'ht=
+tp://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCL=
+ASS=3DSTAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&PickupT=
+ime=3D&DropoffTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D2=
+0120706|RCDEALS_IMG&batchId=3D245606&sendId=3D19781188205&utm_source=3DABAN=
+DON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA=
+6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'RCDEALS=
+_IMG'> <img width=3D'100' height=3D'53' border=3D'0' src=3D'http://img1.pri=
+celine.com/ets/aband/CAR_STAR.jpg' style=3D'display: block;'> </a> </td> <t=
+d width=3D'175' align=3D'left' style=3D'padding: 0px 0px 1px 5px;'> <a href=
+=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMCO&=
+VECHCLASS=3DSTAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012&P=
+ickupTime=3D&DropoffTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refclick=
+id=3D20120706|RCDEALS_TITLE&batchId=3D245606&sendId=3D19781188205&utm_sourc=
+e=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&ea=
+=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=
+=3D'RCDEALS_TITLE' style=3D'vertical-align: top; text-decoration: none; fon=
+t-weight: bold; font-family: arial; font-size: 16px; color: rgb(10, 133, 19=
+3);'> Convertible Car - <span style=3D'font-size: 14px;'>(MCO)<br> <span st=
+yle=3D'font-size: 12px; color: black; text-decoration: none; font-weight: n=
+ormal;'> One of our customers just booked a Convertible Car in Orlando for =
+$50 a day. </span> </span> </a> </td> <td width=3D'70' align=3D'center' sty=
+le=3D'padding-bottom: 1px;'> <a href=3D'http://jump.priceline.com/qp.asp?om=
+c=3DO&ProductID=3D8&PickupLoc=3DMCO&VECHCLASS=3DSTAR&PickupDate=3D07%2F18%2=
+F2012&DropoffDate=3D07%2F25%2F2012&PickupTime=3D&DropoffTime=3D&DropoffLoc=
+=3DMCO&refid=3DPMABANDON_AIR&refclickid=3D20120706|RCDEALS_PRICE&batchId=3D=
+245606&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm=
+_campaign=3DABANDON_AIR_20120706&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB=
+55117191536408E232E179DAC6F' alias=3D'RCDEALS_PRICE' style=3D'vertical-alig=
+n: top; text-decoration: none; font-weight: bold; font-family: arial; font-=
+size: 26px; color: rgb(10, 133, 193);'> $50 <br> <span style=3D'text-decora=
+tion: none; font-weight: normal; font-size: 12px;'> per day<br> </span> </a=
+> <a style=3D'vertical-align: top; text-decoration: none; font-family: aria=
+l; font-size: 14px; color: rgb(10, 133, 193);' alias=3D'RCDEALS_BOOKNOW' hr=
+ef=3D'http://jump.priceline.com/qp.asp?omc=3DO&ProductID=3D8&PickupLoc=3DMC=
+O&VECHCLASS=3DSTAR&PickupDate=3D07%2F18%2F2012&DropoffDate=3D07%2F25%2F2012=
+&PickupTime=3D&DropoffTime=3D&DropoffLoc=3DMCO&refid=3DPMABANDON_AIR&refcli=
+ckid=3D20120706|RCDEALS_BOOKNOW&batchId=3D245606&sendId=3D19781188205&utm_s=
+ource=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&=
+ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F'> <im=
+g src=3D'http://img1.priceline.com/ets/aband/chooseButton.gif' height=3D'20=
+' width=3D'60' border=3D'0' alt=3D'choose' style=3D'display:block;'></a> </=
+a> </td> </tr> </tbody></table></td></tr></table></td><td bgcolor=3D'#c9e4f=
+2' width=3D'6'></td><td bgcolor=3D'#60afd7' width=3D'9'></td></tr></table><=
+table cellpadding=3D'0' cellspacing=3D'0' width=3D'471' border=3D'0'> <tr> =
+<td bgcolor=3D'#0a85c1' width=3D'7'></td> <td bgcolor=3D'#60afd7' width=3D'=
+8'></td> <td bgcolor=3D'#c9e4f2' width=3D'6'></td> <td bgcolor=3D'#ffffff' =
+width=3D'435' height=3D'10' align=3D'center'></td> <td bgcolor=3D'#c9e4f2' =
+width=3D'6'></td> <td bgcolor=3D'#60afd7' width=3D'9'></td> </tr> </table><=
+table cellpadding=3D'0' cellspacing=3D'0' width=3D'471' border=3D'0'> <tr> =
+<td bgcolor=3D'#0a85c1' width=3D'7'></td> <td bgcolor=3D'#60afd7' width=3D'=
+8'></td> <td bgcolor=3D'#c9e4f2' width=3D'6'></td> <td bgcolor=3D'#ffffff' =
+width=3D'435' align=3D'center' style=3D'padding:0px 0px 5px 0px;'> <table w=
+idth=3D'415' cellpadding=3D'0' cellspacing=3D'0' border=3D'0' align=3D'cent=
+er' style=3D'padding:10px 0px 0px 0px;'> <tr> <td width=3D'415' align=3D'le=
+ft' style=3D'font-family:arial; font-size:18px; color:#0a85c1; padding:10px=
+ 0px 0px 0px;'> <span style=3D'vertical-align:middle;'><b>Save on a Orlando=
+, FL Hotel</b></span><br/> <span style=3D'font-size:13px;'><i>recent name y=
+our own price winning bids in Orlando, FL</i><sup> *</sup></span> </td> </t=
+r> </table> <table width=3D'415' cellpadding=3D'0' cellspacing=3D'0' border=
+=3D'0' align=3D'center' bgcolor=3D'#FFFFFF'> <tr> <td width=3D'415' align=
+=3D'center' bgcolor=3D'#c9e4f2' style=3D'border:1px solid #0a85c1; padding:=
+5px 5px 5px 5px;'><table width=3D'405' cellpadding=3D'0' cellspacing=3D'0' =
+style=3D'border:1px solid #0a85c1;background-color:#ffffff;'> <tr> <td widt=
+h=3D'90' height=3D'80' style=3D'padding:5px 5px 5px 5px;'> <a href=3D'http:=
+//jump.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=3DO=
+rlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON=
+_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D20=
+120706|HALFOFF_IMAGE&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD=
+86DEB55117191536408E232E179DAC6F' alias=3D'HALFOFF_IMAGE'> <img src=3D'http=
+://img1.priceline.com/ets/aband/halfOffIcon.gif' height=3D'67' width=3D'79'=
+ border=3D'0' style=3D'display:block;'> </a> </td> <td width=3D'225' height=
+=3D'80' align=3D'left' style=3D'vertical-align:top;'> <table cellpadding=3D=
+'0' cellspacing=3D'0' width=3D'225'> <tr> <td style=3D'vertical-align:top;p=
+adding:5px 0px 0px 0px;'> <a href=3D'http://jump.priceline.com/hotel/nyop?E=
+TAB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR=
+&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campa=
+ign=3DABANDON_AIR_20120706&refclickid=3D20120706|NYOP_STAR&batchId=3D245606=
+&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' ali=
+as=3D'NYOP_STAR' style=3D'text-decoration:none;'> <img src=3D'http://img1.p=
+riceline.com/ets/aband/2_starBig.gif' width=3D'67' height=3D'17' alt=3D'2 S=
+tars' border=3D'0' style=3D'display:block;'> </a> </td> </tr> <tr> <td styl=
+e=3D'padding:1px 0px 5px 0px;font-family:arial; font-size:13px;'> <a href=
+=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY=
+&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=
+=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&refcl=
+ickid=3D20120706|NYOP_AREA&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A=
+5673CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOP_AREA' style=3D'color:=
+#0a85c1;text-decoration:underline;'><b>Winter Park</b></a> </td> </tr> <tr>=
+ <td style=3D'vertical-align:text-bottom; font-family:arial; font-size:10px=
+;'> <a href=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&sta=
+rt_page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D19781188205&=
+utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_2012=
+0706&refclickid=3D20120706|NYOP_TEXT&batchId=3D245606&ea=3DE980DCA6C658F2B2=
+8273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOP_TEXT' style=
+=3D'text-decoration:none;color:#000000;'>One of our customers just booked a=
+ 2-star hotel in the Winter Park Area for $37.</a> </td> </tr> </table> </t=
+d> <td width=3D'90' height=3D'80' align=3D'center' style=3D'vertical-align:=
+middle;'> <table width=3D'90' cellpadding=3D'0' cellspacing=3D'0'> <tr> <td=
+ align=3D'right' style=3D'padding:0px 10px 0px 0px;'> <a href=3D'http://jum=
+p.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrland=
+o%2CFL&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&=
+utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D2012070=
+6|NYOP_PRICE&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB551=
+17191536408E232E179DAC6F' alias=3D'NYOP_PRICE' style=3D'text-decoration:non=
+e;color:#0a85c1; font-family:arial; font-size:26px;'> <b>$37</b> </a> </td>=
+ </tr> <tr> <td align=3D'right' style=3D'padding:0px 10px 0px 0px; vertical=
+-align:top;'> <a href=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=
+=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D1=
+9781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABAND=
+ON_AIR_20120706&refclickid=3D20120706|NYOP_NIGHT&batchId=3D245606&ea=3DE980=
+DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOP=
+_NIGHT' style=3D'text-decoration:none;color:#0a85c1; font-family:arial; fon=
+t-size:13px;'> per night </a> </td> </tr> <tr> <td align=3D'right' style=3D=
+'padding: 2px 5px 0px 0px;'> <a href=3D'http://jump.priceline.com/hotel/nyo=
+p?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_=
+AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_ca=
+mpaign=3DABANDON_AIR_20120706&refclickid=3D20120706|NYOP_CHOOSE&batchId=3D2=
+45606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F=
+' alias=3D'NYOP_CHOOSE' style=3D'text-decoration:none;color:#0a85c1; font-f=
+amily:arial; font-size:13px;'> <img src=3D'http://img1.priceline.com/ets/ab=
+and/chooseButton.gif' width=3D'60' height=3D'20' alt=3D'Choose' border=3D'0=
+' style=3D'display:block;'> </a> </td> </tr> </table> </td> </tr> </table> =
+<table width=3D'405' cellspacing=3D'0' cellpadding=3D'0' border=3D'0'> <tr>=
+ <td height=3D'5' width=3D'405' bgcolor=3D'#c9e4f2'></td> </tr> </table><ta=
+ble width=3D'405' cellpadding=3D'0' cellspacing=3D'0' style=3D'border:1px s=
+olid #0a85c1;background-color:#ffffff;'> <tr> <td width=3D'90' height=3D'80=
+' style=3D'padding:5px 5px 5px 5px;'> <a href=3D'http://jump.priceline.com/=
+hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=3DP=
+MABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Dema=
+il&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|HALFOFF_IMAGE&=
+batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E2=
+32E179DAC6F' alias=3D'HALFOFF_IMAGE'> <img src=3D'http://img1.priceline.com=
+/ets/aband/halfOffIcon.gif' height=3D'67' width=3D'79' border=3D'0' style=
+=3D'display:block;'> </a> </td> <td width=3D'225' height=3D'80' align=3D'le=
+ft' style=3D'vertical-align:top;'> <table cellpadding=3D'0' cellspacing=3D'=
+0' width=3D'225'> <tr> <td style=3D'vertical-align:top;padding:5px 0px 0px =
+0px;'> <a href=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&=
+start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D197811882=
+05&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_2=
+0120706&refclickid=3D20120706|NYOP_STAR&batchId=3D245606&ea=3DE980DCA6C658F=
+2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOP_STAR' st=
+yle=3D'text-decoration:none;'> <img src=3D'http://img1.priceline.com/ets/ab=
+and/3_5_starBig.gif' width=3D'67' height=3D'17' alt=3D'3.5 Stars' border=3D=
+'0' style=3D'display:block;'> </a> </td> </tr> <tr> <td style=3D'padding:1p=
+x 0px 5px 0px;font-family:arial; font-size:13px;'> <a href=3D'http://jump.p=
+riceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%2=
+CFL&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm=
+_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|N=
+YOP_AREA&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB5511719=
+1536408E232E179DAC6F' alias=3D'NYOP_AREA' style=3D'color:#0a85c1;text-decor=
+ation:underline;'><b>West Disney Area</b></a> </td> </tr> <tr> <td style=3D=
+'vertical-align:text-bottom; font-family:arial; font-size:10px;'> <a href=
+=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY=
+&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=
+=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&refcl=
+ickid=3D20120706|NYOP_TEXT&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A=
+5673CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOP_TEXT' style=3D'text-d=
+ecoration:none;color:#000000;'>One of our customers just booked a 3.5-star =
+hotel in the West Disney Area Area for $85.</a> </td> </tr> </table> </td> =
+<td width=3D'90' height=3D'80' align=3D'center' style=3D'vertical-align:mid=
+dle;'> <table width=3D'90' cellpadding=3D'0' cellspacing=3D'0'> <tr> <td al=
+ign=3D'right' style=3D'padding:0px 10px 0px 0px;'> <a href=3D'http://jump.p=
+riceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%2=
+CFL&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm=
+_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|N=
+YOP_PRICE&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB551171=
+91536408E232E179DAC6F' alias=3D'NYOP_PRICE' style=3D'text-decoration:none;c=
+olor:#0a85c1; font-family:arial; font-size:26px;'> <b>$85</b> </a> </td> </=
+tr> <tr> <td align=3D'right' style=3D'padding:0px 10px 0px 0px; vertical-al=
+ign:top;'> <a href=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dp=
+cln&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D19781=
+188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_A=
+IR_20120706&refclickid=3D20120706|NYOP_NIGHT&batchId=3D245606&ea=3DE980DCA6=
+C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOP_NIG=
+HT' style=3D'text-decoration:none;color:#0a85c1; font-family:arial; font-si=
+ze:13px;'> per night </a> </td> </tr> <tr> <td align=3D'right' style=3D'pad=
+ding: 2px 5px 0px 0px;'> <a href=3D'http://jump.priceline.com/hotel/nyop?ET=
+AB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&=
+sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campai=
+gn=3DABANDON_AIR_20120706&refclickid=3D20120706|NYOP_CHOOSE&batchId=3D24560=
+6&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' al=
+ias=3D'NYOP_CHOOSE' style=3D'text-decoration:none;color:#0a85c1; font-famil=
+y:arial; font-size:13px;'> <img src=3D'http://img1.priceline.com/ets/aband/=
+chooseButton.gif' width=3D'60' height=3D'20' alt=3D'Choose' border=3D'0' st=
+yle=3D'display:block;'> </a> </td> </tr> </table> </td> </tr> </table> <tab=
+le width=3D'405' cellspacing=3D'0' cellpadding=3D'0' border=3D'0'> <tr> <td=
+ height=3D'5' width=3D'405' bgcolor=3D'#c9e4f2'></td> </tr> </table><table =
+width=3D'405' cellpadding=3D'0' cellspacing=3D'0' style=3D'border:1px solid=
+ #0a85c1;background-color:#ffffff;'> <tr> <td width=3D'90' height=3D'80' st=
+yle=3D'padding:5px 5px 5px 5px;'> <a href=3D'http://jump.priceline.com/hote=
+l/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABA=
+NDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&u=
+tm_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|HALFOFF_IMAGE&batc=
+hId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E1=
+79DAC6F' alias=3D'HALFOFF_IMAGE'> <img src=3D'http://img1.priceline.com/ets=
+/aband/halfOffIcon.gif' height=3D'67' width=3D'79' border=3D'0' style=3D'di=
+splay:block;'> </a> </td> <td width=3D'225' height=3D'80' align=3D'left' st=
+yle=3D'vertical-align:top;'> <table cellpadding=3D'0' cellspacing=3D'0' wid=
+th=3D'225'> <tr> <td style=3D'vertical-align:top;padding:5px 0px 0px 0px;'>=
+ <a href=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_=
+page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm=
+_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_2012070=
+6&refclickid=3D20120706|NYOP_STAR&batchId=3D245606&ea=3DE980DCA6C658F2B2827=
+3FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOP_STAR' style=3D=
+'text-decoration:none;'> <img src=3D'http://img1.priceline.com/ets/aband/3_=
+starBig.gif' width=3D'67' height=3D'17' alt=3D'3 Stars' border=3D'0' style=
+=3D'display:block;'> </a> </td> </tr> <tr> <td style=3D'padding:1px 0px 5px=
+ 0px;font-family:arial; font-size:13px;'> <a href=3D'http://jump.priceline.=
+com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=
+=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=
+=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|NYOP_ARE=
+A&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408=
+E232E179DAC6F' alias=3D'NYOP_AREA' style=3D'color:#0a85c1;text-decoration:u=
+nderline;'><b>Universal Orlando Resort Area - Intl. Drive North</b></a> </t=
+d> </tr> <tr> <td style=3D'vertical-align:text-bottom; font-family:arial; f=
+ont-size:10px;'> <a href=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&p=
+lf=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=
+=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DA=
+BANDON_AIR_20120706&refclickid=3D20120706|NYOP_TEXT&batchId=3D245606&ea=3DE=
+980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'N=
+YOP_TEXT' style=3D'text-decoration:none;color:#000000;'>One of our customer=
+s just booked a 3-star hotel in the Universal Orlando Resort Area - Intl. D=
+rive North Area for $55.</a> </td> </tr> </table> </td> <td width=3D'90' he=
+ight=3D'80' align=3D'center' style=3D'vertical-align:middle;'> <table width=
+=3D'90' cellpadding=3D'0' cellspacing=3D'0'> <tr> <td align=3D'right' style=
+=3D'padding:0px 10px 0px 0px;'> <a href=3D'http://jump.priceline.com/hotel/=
+nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABAND=
+ON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm=
+_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|NYOP_PRICE&batchId=
+=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179D=
+AC6F' alias=3D'NYOP_PRICE' style=3D'text-decoration:none;color:#0a85c1; fon=
+t-family:arial; font-size:26px;'> <b>$55</b> </a> </td> </tr> <tr> <td alig=
+n=3D'right' style=3D'padding:0px 10px 0px 0px; vertical-align:top;'> <a hre=
+f=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3D=
+Y&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=
+=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&refcl=
+ickid=3D20120706|NYOP_NIGHT&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552=
+A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOP_NIGHT' style=3D'text=
+-decoration:none;color:#0a85c1; font-family:arial; font-size:13px;'> per ni=
+ght </a> </td> </tr> <tr> <td align=3D'right' style=3D'padding: 2px 5px 0px=
+ 0px;'> <a href=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln=
+&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D19781188=
+205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_=
+20120706&refclickid=3D20120706|NYOP_CHOOSE&batchId=3D245606&ea=3DE980DCA6C6=
+58F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOP_CHOOS=
+E' style=3D'text-decoration:none;color:#0a85c1; font-family:arial; font-siz=
+e:13px;'> <img src=3D'http://img1.priceline.com/ets/aband/chooseButton.gif'=
+ width=3D'60' height=3D'20' alt=3D'Choose' border=3D'0' style=3D'display:bl=
+ock;'> </a> </td> </tr> </table> </td> </tr> </table> <table width=3D'405' =
+cellspacing=3D'0' cellpadding=3D'0' border=3D'0'> <tr> <td height=3D'5' wid=
+th=3D'405' bgcolor=3D'#c9e4f2'></td> </tr> </table><table width=3D'405' cel=
+lpadding=3D'0' cellspacing=3D'0' style=3D'border:1px solid #0a85c1;backgrou=
+nd-color:#ffffff;'> <tr> <td width=3D'90' height=3D'80' style=3D'padding:5p=
+x 5px 5px 5px;'> <a href=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&p=
+lf=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=
+=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DA=
+BANDON_AIR_20120706&refclickid=3D20120706|HALFOFF_IMAGE&batchId=3D245606&ea=
+=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=
+=3D'HALFOFF_IMAGE'> <img src=3D'http://img1.priceline.com/ets/aband/halfOff=
+Icon.gif' height=3D'67' width=3D'79' border=3D'0' style=3D'display:block;'>=
+ </a> </td> <td width=3D'225' height=3D'80' align=3D'left' style=3D'vertica=
+l-align:top;'> <table cellpadding=3D'0' cellspacing=3D'0' width=3D'225'> <t=
+r> <td style=3D'vertical-align:top;padding:5px 0px 0px 0px;'> <a href=3D'ht=
+tp://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=
+=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABA=
+NDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=
+=3D20120706|NYOP_STAR&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673C=
+D86DEB55117191536408E232E179DAC6F' alias=3D'NYOP_STAR' style=3D'text-decora=
+tion:none;'> <img src=3D'http://img1.priceline.com/ets/aband/3_5_starBig.gi=
+f' width=3D'67' height=3D'17' alt=3D'3.5 Stars' border=3D'0' style=3D'displ=
+ay:block;'> </a> </td> </tr> <tr> <td style=3D'padding:1px 0px 5px 0px;font=
+-family:arial; font-size:13px;'> <a href=3D'http://jump.priceline.com/hotel=
+/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABAN=
+DON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&ut=
+m_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|NYOP_AREA&batchId=
+=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179D=
+AC6F' alias=3D'NYOP_AREA' style=3D'color:#0a85c1;text-decoration:underline;=
+'><b>Sea World - Intl. Drive - Convention Center</b></a> </td> </tr> <tr> <=
+td style=3D'vertical-align:text-bottom; font-family:arial; font-size:10px;'=
+> <a href=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start=
+_page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D19781188205&ut=
+m_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_201207=
+06&refclickid=3D20120706|NYOP_TEXT&batchId=3D245606&ea=3DE980DCA6C658F2B282=
+73FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOP_TEXT' style=
+=3D'text-decoration:none;color:#000000;'>One of our customers just booked a=
+ 3.5-star hotel in the Sea World - Intl. Drive - Convention Center Area for=
+ $60.</a> </td> </tr> </table> </td> <td width=3D'90' height=3D'80' align=
+=3D'center' style=3D'vertical-align:middle;'> <table width=3D'90' cellpaddi=
+ng=3D'0' cellspacing=3D'0'> <tr> <td align=3D'right' style=3D'padding:0px 1=
+0px 0px 0px;'> <a href=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=
+=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D1=
+9781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABAND=
+ON_AIR_20120706&refclickid=3D20120706|NYOP_PRICE&batchId=3D245606&ea=3DE980=
+DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOP=
+_PRICE' style=3D'text-decoration:none;color:#0a85c1; font-family:arial; fon=
+t-size:26px;'> <b>$60</b> </a> </td> </tr> <tr> <td align=3D'right' style=
+=3D'padding:0px 10px 0px 0px; vertical-align:top;'> <a href=3D'http://jump.=
+priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%=
+2CFL&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&ut=
+m_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|=
+NYOP_NIGHT&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117=
+191536408E232E179DAC6F' alias=3D'NYOP_NIGHT' style=3D'text-decoration:none;=
+color:#0a85c1; font-family:arial; font-size:13px;'> per night </a> </td> </=
+tr> <tr> <td align=3D'right' style=3D'padding: 2px 5px 0px 0px;'> <a href=
+=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY=
+&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=
+=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&refcl=
+ickid=3D20120706|NYOP_CHOOSE&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF55=
+2A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOP_CHOOSE' style=3D'te=
+xt-decoration:none;color:#0a85c1; font-family:arial; font-size:13px;'> <img=
+ src=3D'http://img1.priceline.com/ets/aband/chooseButton.gif' width=3D'60' =
+height=3D'20' alt=3D'Choose' border=3D'0' style=3D'display:block;'> </a> </=
+td> </tr> </table> </td> </tr> </table> <table width=3D'405' cellspacing=3D=
+'0' cellpadding=3D'0' border=3D'0'> <tr> <td height=3D'5' width=3D'405' bgc=
+olor=3D'#c9e4f2'></td> </tr> </table><table width=3D'405' cellpadding=3D'0'=
+ cellspacing=3D'0' style=3D'border:1px solid #0a85c1;background-color:#ffff=
+ff;'> <tr> <td width=3D'90' height=3D'80' style=3D'padding:5px 5px 5px 5px;=
+'> <a href=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&star=
+t_page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D19781188205&u=
+tm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120=
+706&refclickid=3D20120706|HALFOFF_IMAGE&batchId=3D245606&ea=3DE980DCA6C658F=
+2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'HALFOFF_IMAGE=
+'> <img src=3D'http://img1.priceline.com/ets/aband/halfOffIcon.gif' height=
+=3D'67' width=3D'79' border=3D'0' style=3D'display:block;'> </a> </td> <td =
+width=3D'225' height=3D'80' align=3D'left' style=3D'vertical-align:top;'> <=
+table cellpadding=3D'0' cellspacing=3D'0' width=3D'225'> <tr> <td style=3D'=
+vertical-align:top;padding:5px 0px 0px 0px;'> <a href=3D'http://jump.pricel=
+ine.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&r=
+efid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medi=
+um=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|NYOP_S=
+TAR&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB551171915364=
+08E232E179DAC6F' alias=3D'NYOP_STAR' style=3D'text-decoration:none;'> <img =
+src=3D'http://img1.priceline.com/ets/aband/3_5_starBig.gif' width=3D'67' he=
+ight=3D'17' alt=3D'3.5 Stars' border=3D'0' style=3D'display:block;'> </a> <=
+/td> </tr> <tr> <td style=3D'padding:1px 0px 5px 0px;font-family:arial; fon=
+t-size:13px;'> <a href=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=
+=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D1=
+9781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABAND=
+ON_AIR_20120706&refclickid=3D20120706|NYOP_AREA&batchId=3D245606&ea=3DE980D=
+CA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOP_=
+AREA' style=3D'color:#0a85c1;text-decoration:underline;'><b>Orlando Interna=
+tional Airport (mco)</b></a> </td> </tr> <tr> <td style=3D'vertical-align:t=
+ext-bottom; font-family:arial; font-size:10px;'> <a href=3D'http://jump.pri=
+celine.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%2CF=
+L&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_m=
+edium=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|NYO=
+P_TEXT&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB551171915=
+36408E232E179DAC6F' alias=3D'NYOP_TEXT' style=3D'text-decoration:none;color=
+:#000000;'>One of our customers just booked a 3.5-star hotel in the Orlando=
+ International Airport (mco) Area for $60.</a> </td> </tr> </table> </td> <=
+td width=3D'90' height=3D'80' align=3D'center' style=3D'vertical-align:midd=
+le;'> <table width=3D'90' cellpadding=3D'0' cellspacing=3D'0'> <tr> <td ali=
+gn=3D'right' style=3D'padding:0px 10px 0px 0px;'> <a href=3D'http://jump.pr=
+iceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%2C=
+FL&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_=
+medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|NY=
+OP_PRICE&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB5511719=
+1536408E232E179DAC6F' alias=3D'NYOP_PRICE' style=3D'text-decoration:none;co=
+lor:#0a85c1; font-family:arial; font-size:26px;'> <b>$60</b> </a> </td> </t=
+r> <tr> <td align=3D'right' style=3D'padding:0px 10px 0px 0px; vertical-ali=
+gn:top;'> <a href=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpc=
+ln&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D197811=
+88205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AI=
+R_20120706&refclickid=3D20120706|NYOP_NIGHT&batchId=3D245606&ea=3DE980DCA6C=
+658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOP_NIGH=
+T' style=3D'text-decoration:none;color:#0a85c1; font-family:arial; font-siz=
+e:13px;'> per night </a> </td> </tr> <tr> <td align=3D'right' style=3D'padd=
+ing: 2px 5px 0px 0px;'> <a href=3D'http://jump.priceline.com/hotel/nyop?ETA=
+B=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&s=
+endId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaig=
+n=3DABANDON_AIR_20120706&refclickid=3D20120706|NYOP_CHOOSE&batchId=3D245606=
+&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' ali=
+as=3D'NYOP_CHOOSE' style=3D'text-decoration:none;color:#0a85c1; font-family=
+:arial; font-size:13px;'> <img src=3D'http://img1.priceline.com/ets/aband/c=
+hooseButton.gif' width=3D'60' height=3D'20' alt=3D'Choose' border=3D'0' sty=
+le=3D'display:block;'> </a> </td> </tr> </table> </td> </tr> </table> <tabl=
+e width=3D'405' cellspacing=3D'0' cellpadding=3D'0' border=3D'0'> <tr> <td =
+height=3D'5' width=3D'405' bgcolor=3D'#c9e4f2'></td> </tr> </table><table w=
+idth=3D'405' cellpadding=3D'0' cellspacing=3D'0' style=3D'border:1px solid =
+#0a85c1;background-color:#ffffff;'> <tr> <td width=3D'90' height=3D'80' sty=
+le=3D'padding:5px 5px 5px 5px;'> <a href=3D'http://jump.priceline.com/hotel=
+/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABAN=
+DON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&ut=
+m_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|HALFOFF_IMAGE&batch=
+Id=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E17=
+9DAC6F' alias=3D'HALFOFF_IMAGE'> <img src=3D'http://img1.priceline.com/ets/=
+aband/halfOffIcon.gif' height=3D'67' width=3D'79' border=3D'0' style=3D'dis=
+play:block;'> </a> </td> <td width=3D'225' height=3D'80' align=3D'left' sty=
+le=3D'vertical-align:top;'> <table cellpadding=3D'0' cellspacing=3D'0' widt=
+h=3D'225'> <tr> <td style=3D'vertical-align:top;padding:5px 0px 0px 0px;'> =
+<a href=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_p=
+age=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_=
+source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706=
+&refclickid=3D20120706|NYOP_STAR&batchId=3D245606&ea=3DE980DCA6C658F2B28273=
+FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOP_STAR' style=3D'=
+text-decoration:none;'> <img src=3D'http://img1.priceline.com/ets/aband/3_s=
+tarBig.gif' width=3D'67' height=3D'17' alt=3D'3 Stars' border=3D'0' style=
+=3D'display:block;'> </a> </td> </tr> <tr> <td style=3D'padding:1px 0px 5px=
+ 0px;font-family:arial; font-size:13px;'> <a href=3D'http://jump.priceline.=
+com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=
+=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=
+=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|NYOP_ARE=
+A&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408=
+E232E179DAC6F' alias=3D'NYOP_AREA' style=3D'color:#0a85c1;text-decoration:u=
+nderline;'><b>Orlando East</b></a> </td> </tr> <tr> <td style=3D'vertical-a=
+lign:text-bottom; font-family:arial; font-size:10px;'> <a href=3D'http://ju=
+mp.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlan=
+do%2CFL&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR=
+&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D201207=
+06|NYOP_TEXT&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB551=
+17191536408E232E179DAC6F' alias=3D'NYOP_TEXT' style=3D'text-decoration:none=
+;color:#000000;'>One of our customers just booked a 3-star hotel in the Orl=
+ando East Area for $60.</a> </td> </tr> </table> </td> <td width=3D'90' hei=
+ght=3D'80' align=3D'center' style=3D'vertical-align:middle;'> <table width=
+=3D'90' cellpadding=3D'0' cellspacing=3D'0'> <tr> <td align=3D'right' style=
+=3D'padding:0px 10px 0px 0px;'> <a href=3D'http://jump.priceline.com/hotel/=
+nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABAND=
+ON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm=
+_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|NYOP_PRICE&batchId=
+=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179D=
+AC6F' alias=3D'NYOP_PRICE' style=3D'text-decoration:none;color:#0a85c1; fon=
+t-family:arial; font-size:26px;'> <b>$60</b> </a> </td> </tr> <tr> <td alig=
+n=3D'right' style=3D'padding:0px 10px 0px 0px; vertical-align:top;'> <a hre=
+f=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3D=
+Y&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=
+=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&refcl=
+ickid=3D20120706|NYOP_NIGHT&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552=
+A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOP_NIGHT' style=3D'text=
+-decoration:none;color:#0a85c1; font-family:arial; font-size:13px;'> per ni=
+ght </a> </td> </tr> <tr> <td align=3D'right' style=3D'padding: 2px 5px 0px=
+ 0px;'> <a href=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln=
+&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D19781188=
+205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_=
+20120706&refclickid=3D20120706|NYOP_CHOOSE&batchId=3D245606&ea=3DE980DCA6C6=
+58F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOP_CHOOS=
+E' style=3D'text-decoration:none;color:#0a85c1; font-family:arial; font-siz=
+e:13px;'> <img src=3D'http://img1.priceline.com/ets/aband/chooseButton.gif'=
+ width=3D'60' height=3D'20' alt=3D'Choose' border=3D'0' style=3D'display:bl=
+ock;'> </a> </td> </tr> </table> </td> </tr> </table> <table width=3D'405' =
+cellspacing=3D'0' cellpadding=3D'0' border=3D'0'> <tr> <td height=3D'5' wid=
+th=3D'405' bgcolor=3D'#c9e4f2'></td> </tr> </table><table width=3D'405' cel=
+lpadding=3D'0' cellspacing=3D'0' style=3D'border:1px solid #0a85c1;backgrou=
+nd-color:#ffffff;'> <tr> <td width=3D'90' height=3D'80' style=3D'padding:5p=
+x 5px 5px 5px;'> <a href=3D'http://jump.priceline.com/hotel/nyop?ETAB=3D1&p=
+lf=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=
+=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DA=
+BANDON_AIR_20120706&refclickid=3D20120706|HALFOFF_IMAGE&batchId=3D245606&ea=
+=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=
+=3D'HALFOFF_IMAGE'> <img src=3D'http://img1.priceline.com/ets/aband/halfOff=
+Icon.gif' height=3D'67' width=3D'79' border=3D'0' style=3D'display:block;'>=
+ </a> </td> <td width=3D'225' height=3D'80' align=3D'left' style=3D'vertica=
+l-align:top;'> <table cellpadding=3D'0' cellspacing=3D'0' width=3D'225'> <t=
+r> <td style=3D'vertical-align:top;padding:5px 0px 0px 0px;'> <a href=3D'ht=
+tp://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=
+=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABA=
+NDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=
+=3D20120706|NYOP_STAR&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673C=
+D86DEB55117191536408E232E179DAC6F' alias=3D'NYOP_STAR' style=3D'text-decora=
+tion:none;'> <img src=3D'http://img1.priceline.com/ets/aband/2_starBig.gif'=
+ width=3D'67' height=3D'17' alt=3D'2 Stars' border=3D'0' style=3D'display:b=
+lock;'> </a> </td> </tr> <tr> <td style=3D'padding:1px 0px 5px 0px;font-fam=
+ily:arial; font-size:13px;'> <a href=3D'http://jump.priceline.com/hotel/nyo=
+p?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_=
+AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_ca=
+mpaign=3DABANDON_AIR_20120706&refclickid=3D20120706|NYOP_AREA&batchId=3D245=
+606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' =
+alias=3D'NYOP_AREA' style=3D'color:#0a85c1;text-decoration:underline;'><b>O=
+rlando Airport West - Fl Mall Area</b></a> </td> </tr> <tr> <td style=3D've=
+rtical-align:text-bottom; font-family:arial; font-size:10px;'> <a href=3D'h=
+ttp://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=
+=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABA=
+NDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=
+=3D20120706|NYOP_TEXT&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673C=
+D86DEB55117191536408E232E179DAC6F' alias=3D'NYOP_TEXT' style=3D'text-decora=
+tion:none;color:#000000;'>One of our customers just booked a 2-star hotel i=
+n the Orlando Airport West - Fl Mall Area Area for $50.</a> </td> </tr> </t=
+able> </td> <td width=3D'90' height=3D'80' align=3D'center' style=3D'vertic=
+al-align:middle;'> <table width=3D'90' cellpadding=3D'0' cellspacing=3D'0'>=
+ <tr> <td align=3D'right' style=3D'padding:0px 10px 0px 0px;'> <a href=3D'h=
+ttp://jump.priceline.com/hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=
+=3DOrlando%2CFL&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABA=
+NDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=
+=3D20120706|NYOP_PRICE&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673=
+CD86DEB55117191536408E232E179DAC6F' alias=3D'NYOP_PRICE' style=3D'text-deco=
+ration:none;color:#0a85c1; font-family:arial; font-size:26px;'> <b>$50</b> =
+</a> </td> </tr> <tr> <td align=3D'right' style=3D'padding:0px 10px 0px 0px=
+; vertical-align:top;'> <a href=3D'http://jump.priceline.com/hotel/nyop?ETA=
+B=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=3DPMABANDON_AIR&s=
+endId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_campaig=
+n=3DABANDON_AIR_20120706&refclickid=3D20120706|NYOP_NIGHT&batchId=3D245606&=
+ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alia=
+s=3D'NYOP_NIGHT' style=3D'text-decoration:none;color:#0a85c1; font-family:a=
+rial; font-size:13px;'> per night </a> </td> </tr> <tr> <td align=3D'right'=
+ style=3D'padding: 2px 5px 0px 0px;'> <a href=3D'http://jump.priceline.com/=
+hotel/nyop?ETAB=3D1&plf=3Dpcln&start_page=3DY&city=3DOrlando%2CFL&refid=3DP=
+MABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Dema=
+il&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|NYOP_CHOOSE&ba=
+tchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232=
+E179DAC6F' alias=3D'NYOP_CHOOSE' style=3D'text-decoration:none;color:#0a85c=
+1; font-family:arial; font-size:13px;'> <img src=3D'http://img1.priceline.c=
+om/ets/aband/chooseButton.gif' width=3D'60' height=3D'20' alt=3D'Choose' bo=
+rder=3D'0' style=3D'display:block;'> </a> </td> </tr> </table> </td> </tr> =
+</table> <table width=3D'405' cellspacing=3D'0' cellpadding=3D'0' border=3D=
+'0'> <tr> <td height=3D'5' width=3D'405' bgcolor=3D'#c9e4f2'></td> </tr> </=
+table></td></tr></table></td><td bgcolor=3D'#c9e4f2' width=3D'6'></td><td b=
+gcolor=3D'#60afd7' width=3D'9'></td></tr></table> <table cellpadding=3D'0' =
+cellspacing=3D'0' width=3D'471' border=3D'0'> <tr> <td bgcolor=3D'#0a85c1' =
+width=3D'7'></td> <td bgcolor=3D'#60afd7' width=3D'8'></td> <td bgcolor=3D'=
+#c9e4f2' width=3D'6'></td> <td bgcolor=3D'#ffffff' width=3D'435' height=3D'=
+10' align=3D'center'></td> <td bgcolor=3D'#c9e4f2' width=3D'6'></td> <td bg=
+color=3D'#60afd7' width=3D'9'></td> </tr> </table><table width=3D'471' cell=
+spacing=3D'0' cellpadding=3D'0' border=3D'0' style=3D'width: 353.25pt;' cla=
+ss=3D'MsoNormalTable'> <tr style=3D''> <td width=3D'19' style=3D'width: 14.=
+25pt; padding: 0in;'> <p class=3D'MsoNormal'><span style=3D''><img height=
+=3D'22' width=3D'19' border=3D'0' src=3D'http://img1.priceline.com/ets/aban=
+d/borderBottomLeft.gif' id=3D'_x0000_i1048'><o:p></o:p></span></p> </td> <t=
+d width=3D'452' valign=3D'top' style=3D'width: 339pt; padding: 0in;'> <p al=
+ign=3D'right' style=3D'text-align: right;' class=3D'MsoNormal'><span style=
+=3D''><img height=3D'22' width=3D'452' border=3D'0' src=3D'http://img1.pric=
+eline.com/ets/aband/bottomBorder.gif' id=3D'_x0000_i1049'><o:p></o:p></span=
+></p> </td> </tr> </table> </td> <td bgcolor=3D"#0A85C1" valign=3D"top"><im=
+g src=3D'http://img1.priceline.com/ets/aband/searchFlightDeals.gif' alt=3D'=
+search for flights in Orlando, FL' width=3D'304' height=3D'35' style=3D'col=
+or:#ffffff; font-size:16px; font-family:arial;display:block;'/> <table cell=
+padding=3D'0' cellspacing=3D'0'> <tr> <td bgcolor=3D'#c9e4f2' width=3D'6'><=
+/td> <td bgcolor=3D'#ffffff' width=3D'279'> <table width=3D'279' cellpaddin=
+g=3D'0' cellspacing=3D'0' bgcolor=3D'#ffffff'> <tr> <td style=3D'padding:5p=
+x 5px 5px 5px;' width=3D'269'> <form name=3D'pricelineSearch' action=3D'htt=
+p://jump.priceline.com/qp.asp?' alias=3D'BOOKING_BOX' method=3D'get' style=
+=3D'margin:0px'> <table bgcolor=3D'#7abae9' cellpadding=3D'0' cellspacing=
+=3D'0' width=3D'269' style=3D'color:#ffffff; font-family:arial; border:1px =
+solid #0a85c1;'> <tr> <td colspan=3D'2' style=3D'font-size:16px; padding:5p=
+x 2px 5px 10px;'><b>Orlando, FL Flight Search</b> </td> </tr> <tr> <td styl=
+e=3D'font-size:13px; padding:5px 2px 5px 10px'> <b>from</b><br/> <input typ=
+e=3D'text' maxlength=3D'25' size=3D'15' name=3D'DepCity' value=3D'Phoenix, =
+AZ' style=3D'font-size: 11px;border:1px solid #888888;'> <br/><b>to</b><br/=
+> <input type=3D'text' maxlength=3D'25' size=3D'15' name=3D'Arrcity' value=
+=3D'Orlando, FL' style=3D'font-size: 11px;border:1px solid #888888;'> </td>=
+ <td align=3D'right'> <img src=3D'http://img1.priceline.com/ets/aband/airIc=
+onBlue.gif' width=3D'62' height=3D'46' alt=3D'Guaranteed Lowest Price' styl=
+e=3D'display:block;'> </td> </tr> <tr> <td style=3D'font-size:13px; padding=
+:5px 2px 5px 10px'> <b>departing</b><br/> <input type=3D'text' maxlength=3D=
+'25' size=3D'15' name=3D'DepartureDate' value=3D'07/18/2012' style=3D'font-=
+size: 11px;border:1px solid #888888;'> </td> <td style=3D'font-size:13px'> =
+<b>returning</b><br/> <input type=3D'text' maxlength=3D'25' size=3D'15' nam=
+e=3D'ReturnDate' value=3D'07/25/2012' style=3D'font-size: 11px;border:1px s=
+olid #888888;'> </td> </tr> <tr> <td style=3D'font-size:13px; padding:5px 2=
+px 10px 10px'> <b>tickets</b><br/> <select name=3D'numTickets' style=3D'fon=
+t-size:11px;border:1px solid #888888;'> <option value=3D'1' selected>1 Tick=
+et</option> <option value=3D'2' >2 Tickets</option> <option value=3D'3' >3 =
+Tickets</option> <option value=3D'4' >4 Tickets</option> <option value=3D'5=
+' >5 Tickets</option> <option value=3D'6' >6 Tickets</option> <option value=
+=3D'7' >7 Tickets</option> <option value=3D'8' >8 Tickets</option> </select=
+> </td> <td style=3D'font-size:13px; padding:5px 2px 3px 10px'> <input type=
+=3D'image' src=3D'http://img1.priceline.com/ets/aband/searchNowButton.gif' =
+width=3D'106' height=3D'30' value=3D'Submit' alt=3D'Search Now'> </td> </tr=
+> <input type=3D'hidden' name=3D'ETAB' id=3D'ETAB' value=3D'1'> <input type=
+=3D'hidden' name=3D'refid' id=3D'refid' value=3D'PMABANDON_AIR'> <input typ=
+e=3D'hidden' name=3D'sendId' id=3D'sendId' value=3D'19781188205'> <input ty=
+pe=3D'hidden' name=3D'utm_source' id=3D'utm_source' value=3D'ABANDON_AIR'> =
+<input type=3D'hidden' name=3D'utm_medium' id=3D'utm_medium' value=3D'email=
+'> <input type=3D'hidden' name=3D'utm_campaign' id=3D'utm_campaign' value=
+=3D'ABANDON_AIR_20120706'> <input type=3D'hidden' name=3D'batchId' id=3D'ba=
+tchId' value=3D'245606'> <input type=3D'hidden' name=3D'ea' id=3D'ea' value=
+=3D'E980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F'> <inp=
+ut type=3D'hidden' name=3D'ProductID' id=3D'ProductID' value=3D'1'> <input =
+type=3D'hidden' name=3D'refclickid' id=3D'refclickid' value=3D'20120706|BOO=
+KING_BOX'> <input type=3D'hidden' name=3D'alias' id=3D'alias' value=3D'BOOK=
+ING_BOX'> <tr> <td colspan=3D'2' style=3D'font-size:12px; padding:5px 2px 1=
+0px 10px;'> <a href=3D'http://jump.priceline.com/qp.asp?productID=3D1&DepCi=
+ty=3DPhoenix, AZ&ArrCity=3DOrlando, FL&DepartureDate=3D07/18/2012&ReturnDat=
+e=3D07/25/2012&DepTime=3D0&RetTime=3D0&TripType=3DRT&CabinClass=3DECO&NumTi=
+ckets=3D1&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_A=
+IR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D2012=
+0706|BROKEN_FORM&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DE=
+B55117191536408E232E179DAC6F' alias=3D'BROKEN_FORM' style=3D'color:#ffffff;=
+text-decoration:underline;'>search button not working?</a> </td> </tr> </ta=
+ble> </form> </td> </tr> </table> </td> <td bgcolor=3D'#c9e4f2' width=3D'7'=
+></td> <td bgcolor=3D'#60afd7' width=3D'6'></td> </tr> </table><table cellp=
+adding=3D'0' cellspacing=3D'0'> <tr> <td rowspan=3D'2' bgcolor=3D'#c9e4f2' =
+width=3D'6'></td> <td bgcolor=3D'#c9e4f2' height=3D'5'></td> <td rowspan=3D=
+'2' bgcolor=3D'#c9e4f2' width=3D'6'></td> <td rowspan=3D'2' bgcolor=3D'#60a=
+fd7' width=3D'6'></td> </tr> <tr> <td bgcolor=3D'#ffffff' style=3D'border-t=
+op:5px solid #c9e4f2;padding:10px 0px 10px 0px;' width=3D'280' align=3D'cen=
+ter'> <a href=3D'http://jump.priceline.com/insideTrack/flights/?ETAB=3D1&re=
+fid=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_mediu=
+m=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|BANNER_=
+IMAGE&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB5511719153=
+6408E232E179DAC6F' alias=3D'BANNER_IMAGE'> <img src=3D'http://img1.pricelin=
+e.com/ets/aband/fare_sale_inside_track.jpg' border=3D'0' width=3D'250' heig=
+ht=3D'125'/> </a> </td> </tr> </table><table cellpadding=3D'0' cellspacing=
+=3D'0'> <tr> <td rowspan=3D'3' bgcolor=3D'#c9e4f2' width=3D'6'></td> <td bg=
+color=3D'#c9e4f2' height=3D'5'></td> <td rowspan=3D'3' bgcolor=3D'#c9e4f2' =
+width=3D'6'></td> <td rowspan=3D'3' bgcolor=3D'#60afd7' width=3D'6'></td> <=
+/tr> <tr> <td bgcolor=3D'#ffffff' style=3D'padding:10px 0px 10px 0px;' widt=
+h=3D'280' align=3D'left'> <table cellpadding=3D'0' cellspacing=3D'0' width=
+=3D'280'> <tr> <td style=3D'font-family:arial; font-size:16px; color:#0a85c=
+1;padding:0px 0px 5px 10px;'> <b>my recent air searches</b> </td> </tr><tr>=
+ <td style=3D'padding:0px 0px 5px 10px;' valign=3D'bottom'> <img src=3D'htt=
+p://img1.priceline.com/ets/aband/arrowIcon.gif' width=3D'13' height=3D'13' =
+border=3D'0' valign=3D'bottom' style=3D'margin-right:3px;vertical-align:bot=
+tom;'/> <a href=3D'http://jump.priceline.com/qp.asp?ETAB=3D1&productID=3D1&=
+DepCity=3DPHX&ArrCity=3DMCO&DepartureDate=3D07%2F18%2F2012&ReturnDate=3D07%=
+2F25%2F2012&numTickets=3D1&refid=3DPMABANDON_AIR&sendId=3D19781188205&utm_s=
+ource=3DABANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&=
+refclickid=3D20120706|RECENT_SEARCHES_AIR&batchId=3D245606&ea=3DE980DCA6C65=
+8F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'RECENT_SEAR=
+CHES_AIR' style=3D'vertical-align:text-top;font-family:arial; font-size:13p=
+x; color:#0a85c1;padding:0px 5px 0px 0px;text-decoration:underline;' valign=
+=3D'bottom'>PHX to MCO</a> <br> <img width=3D'15' height=3D'13' border=3D'0=
+' src=3D'http://img1.priceline.com/ets/aband/blank.gif' valign=3D'bottom' s=
+tyle=3D'margin-right: 3px; vertical-align: bottom;'> <a href=3D'http://jump=
+.priceline.com/qp.asp?ETAB=3D1&productID=3D1&DepCity=3DPHX&ArrCity=3DMCO&De=
+partureDate=3D07%2F18%2F2012&ReturnDate=3D07%2F25%2F2012&numTickets=3D1&ref=
+id=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=
+=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|RECENT_S=
+EARCHES_AIR&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB5511=
+7191536408E232E179DAC6F' alias=3D'RECENT_SEARCHES_AIR' style=3D'color:#8888=
+88; font-family:arial; font-size:12px;text-decoration:none;'>July 18 to Jul=
+y 25</a> </td> </tr><tr> <td style=3D'padding:0px 0px 5px 10px;' valign=3D'=
+bottom'> <img src=3D'http://img1.priceline.com/ets/aband/arrowIcon.gif' wid=
+th=3D'13' height=3D'13' border=3D'0' valign=3D'bottom' style=3D'margin-righ=
+t:3px;vertical-align:bottom;'/> <a href=3D'http://jump.priceline.com/qp.asp=
+?ETAB=3D1&productID=3D1&DepCity=3DPHOENIX, AZ&ArrCity=3DORLANDO, FL&Departu=
+reDate=3D07%2F03%2F2012&ReturnDate=3D07%2F10%2F2012&numTickets=3D1&refid=3D=
+PMABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Dem=
+ail&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|RECENT_SEARCH=
+ES_AIR&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB551171915=
+36408E232E179DAC6F' alias=3D'RECENT_SEARCHES_AIR' style=3D'vertical-align:t=
+ext-top;font-family:arial; font-size:13px; color:#0a85c1;padding:0px 5px 0p=
+x 0px;text-decoration:underline;' valign=3D'bottom'>PHOENIX, AZ to ORLANDO,=
+ FL</a> <br> <img width=3D'15' height=3D'13' border=3D'0' src=3D'http://img=
+1.priceline.com/ets/aband/blank.gif' valign=3D'bottom' style=3D'margin-righ=
+t: 3px; vertical-align: bottom;'> <a href=3D'http://jump.priceline.com/qp.a=
+sp?ETAB=3D1&productID=3D1&DepCity=3DPHOENIX, AZ&ArrCity=3DORLANDO, FL&Depar=
+tureDate=3D07%2F03%2F2012&ReturnDate=3D07%2F10%2F2012&numTickets=3D1&refid=
+=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=
+=3Demail&utm_campaign=3DABANDON_AIR_20120706&refclickid=3D20120706|RECENT_S=
+EARCHES_AIR&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB5511=
+7191536408E232E179DAC6F' alias=3D'RECENT_SEARCHES_AIR' style=3D'color:#8888=
+88; font-family:arial; font-size:12px;text-decoration:none;'>July 3 to July=
+ 10</a> </td> </tr></table> </td> </tr> <tr> <td bgcolor=3D'#c9e4f2' height=
+=3D'5'></td> </tr> </table><table cellpadding=3D'0' cellspacing=3D'0'> <tr>=
+ <td rowspan=3D'3' bgcolor=3D'#c9e4f2' width=3D'6'></td> <td bgcolor=3D'#c9=
+e4f2' height=3D'5'></td> <td rowspan=3D'3' bgcolor=3D'#c9e4f2' width=3D'6'>=
+</td> <td rowspan=3D'3' bgcolor=3D'#60afd7' width=3D'6'></td> </tr> <tr> <t=
+d bgcolor=3D'#ffffff' style=3D'padding:10px 0px 10px 0px;' width=3D'280' al=
+ign=3D'left'> <table cellpadding=3D'0' cellspacing=3D'0' width=3D'280'> <tr=
+> <td style=3D'font-family:arial; font-size:16px; color:#0a85c1;padding:0px=
+ 0px 5px 10px;'> <b>my recent hotel searches</b> </td> </tr><tr> <td style=
+=3D'padding:0px 0px 5px 10px;' valign=3D'bottom'> <img src=3D'http://img1.p=
+riceline.com/ets/aband/arrowIcon.gif' width=3D'13' height=3D'13' border=3D'=
+0' valign=3D'bottom' style=3D'margin-right:3px;vertical-align:bottom;'/> <a=
+ href=3D'http://jump.priceline.com/hotel/search?ETAB=3D1&city=3DOrlando, FL=
+&checkindate=3D07%2F18%2F2012&checkoutdate=3D07%2F25%2F2012&rooms=3D1&refid=
+=3DPMABANDON_AIR&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=
+=3Demail&utm_campaign=3DABANDON_AIR_20120706&ProductID=3D5R&homepage=3DY&re=
+fclickid=3D20120706|RECENT_SEARCHES_HOTEL&batchId=3D245606&ea=3DE980DCA6C65=
+8F2B28273FF552A5673CD86DEB55117191536408E232E179DAC6F' alias=3D'RECENT_SEAR=
+CHES_HOTEL' style=3D'vertical-align:text-top;font-family:arial; font-size:1=
+3px; color:#0a85c1;padding:0px 5px 0px 0px;text-decoration:underline;' vali=
+gn=3D'bottom'>Orlando, FL</a> <br> <img width=3D'15' height=3D'13' border=
+=3D'0' src=3D'http://img1.priceline.com/ets/aband/blank.gif' valign=3D'bott=
+om' style=3D'margin-right: 3px; vertical-align: bottom;'> <a href=3D'http:/=
+/jump.priceline.com/hotel/search?ETAB=3D1&city=3DOrlando, FL&checkindate=3D=
+07%2F18%2F2012&checkoutdate=3D07%2F25%2F2012&rooms=3D1&refid=3DPMABANDON_AI=
+R&sendId=3D19781188205&utm_source=3DABANDON_AIR&utm_medium=3Demail&utm_camp=
+aign=3DABANDON_AIR_20120706&ProductID=3D5R&homepage=3DY&refclickid=3D201207=
+06|RECENT_SEARCHES_HOTEL&batchId=3D245606&ea=3DE980DCA6C658F2B28273FF552A56=
+73CD86DEB55117191536408E232E179DAC6F' alias=3D'RECENT_SEARCHES_HOTEL' style=
+=3D'color:#888888; font-family:arial; font-size:12px;text-decoration:none;'=
+>July 18 to July 25</a> </td> </tr></table> </td> </tr> <tr> <td bgcolor=3D=
+'#c9e4f2' height=3D'5'></td> </tr> </table><table cellspacing=3D'0' cellpad=
+ding=3D'0' border=3D'0' align=3D'left' style=3D'' class=3D'MsoNormalTable'>=
+ <tr style=3D''> <td width=3D'283' valign=3D'top' style=3D'width: 212.25pt;=
+ padding: 0in;'> <p class=3D'MsoNormal'><span style=3D''><img height=3D'24'=
+ width=3D'283' border=3D'0' src=3D'http://img1.priceline.com/ets/aband/bord=
+erRight.gif' id=3D'_x0000_i1058'><o:p></o:p></span></p> </td> <td width=3D'=
+20' valign=3D'top' style=3D'width: 15pt; padding: 0in;'> <p class=3D'MsoNor=
+mal'><span style=3D''><img height=3D'23' width=3D'20' border=3D'0' src=3D'h=
+ttp://img1.priceline.com/ets/aband/borderBottomRight.gif' id=3D'_x0000_i105=
+9'><o:p></o:p></span></p> </td> </tr> </table> </td> </tr> <tr> <td colspan=
+=3D"2" bgcolor=3D"#0A85C1" valign=3D"top"><table width=3D'775' border=3D'0'=
+ cellpadding=3D'1' cellspacing=3D'0' style=3D'color:#FFFFFF;font-size:11px;=
+font-family:arial;'><tr><td> <tr> <td rowspan=3D'5'><img src=3D'http://img1=
+.priceline.com/ets/aband/spacer.gif' width=3D'10' height=3D'1' alt=3D''></t=
+d> <td style=3D'padding:15px 0px 0px 0px;'>Questions? Please do not reply t=
+o this email; responses are not monitored and will not go to a customer ser=
+vice representative. If you have questions about these promotions or a prev=
+ious Priceline request, please visit our <a href=3D'http://jump.priceline.c=
+om/customerservice/customerservice.do?INIT_SESSION=3Dtrue&refid=3DPMABANDON=
+_AIR&refclickid=3D20120706|CUST_SERVICE&sendId=3D19781188205&utm_source=3DA=
+BANDON_AIR&utm_medium=3Demail&utm_campaign=3DABANDON_AIR_20120706&batchId=
+=3D245606&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179D=
+AC6F' alias=3D'CUSTOMER_SERVICE' style=3D'color:#99ccff;text-decoration:und=
+erline;'>Customer Service Center</a>.</td> <td rowspan=3D'5'><img src=3D'ht=
+tp://img1.priceline.com/ets/aband/spacer.gif' width=3D'10' height=3D'1' alt=
+=3D''></td> </tr> <tr> <td style=3D'padding:15px 0px 15px 0px;'>When you ma=
+de your Priceline request, you asked to receive future updates and news on =
+our products and services. We hope you found this information useful. Use t=
+he following link to be removed from this email list: <a href=3D''         =
+ alias=3D'UNSUBSCRIBE' style=3D'color:#99ccff; text-decoration:underline;'>=
+Unsubscribe</a> </td> </tr> <tr> <td style=3D'color:#dddddd; border-top:1px=
+ solid #667799; padding:15px 0px 15px 0px;'>^ FLIGHT WINNING BIDS: Over the=
+ last 12 months, a substantial percentage of searches on priceline.com have=
+ resulted in up to 50% savings on Name Your Own Price=C2=AE in comparison t=
+o the lowest published fares on priceline.com (same travel dates and origin=
+ and destination dates). Savings are not guaranteed and will vary based on =
+offer price and availability. Airfares are subject to change frequently and=
+ there is no guarantee that an offer will be accepted. Priceline's Name You=
+r Own Price=C2=AE service is different from other travel sites. Exact airli=
+ne and flight times are disclosed only after purchase.<br><br>* HOTEL WINNI=
+NG BIDS: The Name Your Own Price=C2=AE Winning Bids examples shown above ar=
+e typical of accepted customer bids for these areas and star levels. They a=
+re actual bids offered by Priceline Name Your Own Price=C2=AE customers and=
+ accepted by Priceline for reservations made in the last 21 days of the ema=
+il send date. Winning bids are suggested offer amounts only, and there is n=
+o guarantee that your bid will be accepted. Bids do not include taxes and f=
+ees. Savings claim based on a comparison of Priceline Name Your Own Price=
+=C2=AE accepted offers to the lowest publically available retail rate for t=
+he same hotel and check in and check out dates and for rates available on t=
+he same day as the Name Your Own Price=C2=AE offer. Savings are not guarant=
+eed. Priceline's Name Your Own Price=C2=AE reservation service is different=
+ from fixed price travel sites. With Priceline's Name Your Own Price=C2=AE =
+reservation service, the exact hotel is shown only after purchase. All sale=
+s final. There is no guarantee that specific hotels, dates or prices will b=
+e available.<br><br># RENTAL CAR WINNING BIDS: The Name Your Own Price=C2=
+=AE Winning Bid examples shown above are typical of accepted customer bids =
+for these areas and car classes. They are actual bids offered by Priceline =
+Name Your Own Price=C2=AE customers and accepted by Priceline for reservati=
+ons made in the last 21 days of the email send date. Winning bids are sugge=
+sted offer amounts only, and there is no guarantee that your bid will be ac=
+cepted. Bids do not include taxes and fees. Savings claim based on a compar=
+ison of Priceline Name Your Own Price=C2=AE accepted offers to the lowest a=
+vailable retail rate on leading online travel websites for the same locatio=
+n, car class and pick up and drop off dates and for rates available on the =
+same day as the Name Your Own Price offer. Savings are not guaranteed. Pric=
+eline's Name Your Own Price=C2=AE reservation service is different from fix=
+ed price travel sites. With Priceline's Name Your Own Price=C2=AE reservati=
+on service, the exact rental car company is shown only after purchase. All =
+sales final. There is no guarantee that specific rental cars, dates or pric=
+es will be available.<br><br></td> </tr> <tr> <td style=3D'border-top:1px s=
+olid #667799; padding:15px 0px 0px 0px;'>To ensure that Priceline newslette=
+rs are delivered to your inbox, please add '<a href=3D'mailto:deals@deals.p=
+riceline.com' style=3D'color: #99ccff; text-decoration: underline;'>deals@e=
+mails.priceline.com</a>' to your address book.</td> </tr></table> </td> </t=
+r>
+</table>
+<!-- end slot body-content -->
+
+            </td>
+         </tr>
+         <tr>
+            <td><br></td>
+         </tr>
+      </table><br><table bgcolor=3D"#0A84C1" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0" style=3D"font-family:Arial;text-align:left;font-size:10p=
+x;color:#fff;padding-left:5px;">
+         <tr>
+            <td>   =20
+               Responses to this e-mail will not go to a customer service r=
+epresentative. To contact our customer service team directly,<br> please go=
+ to the=20
+               <a style=3D"color:white;" href=3D"https://jump.priceline.com=
+/customerservice/customerservice.do?INIT_SESSION=3Dtrue&amp;plf=3DPCLN&amp;=
+productlist_faq=3DAIRLINE&amp;continueLink=3D0&amp;_offer_num=3D&amp;_reaso=
+n=3D&amp;_status=3D&amp;selectedTab=3Dcontact&amp;product=3D&amp;from=3DDIN=
+C&amp;refid=3DPMtransact&amp;refclickid=3D20120706%7C%7CCUSTOMER%7CABANDONA=
+TOR%7CBOTTOM_HELP_LINK%7C16%7CANY&amp;sendId=3D19781188205&amp;batchId=3D24=
+5606&amp;ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB55117191536408E232E179DA=
+C6F&amp;utm_medium=3Demail&amp;utm_source=3Dtransactional&amp;utm_campaign=
+=3D%7CCUSTOMER%7CABANDONATOR&amp;email_subject_line=3DOrlando%2C%20FL%20Fli=
+ghts%3A%20Save%20up%20to%2040%25!&amp;email_preview_line=3D" alt=3D"Help">
+                  Help section</a> of our website.
+               <br><br>
+               This is an email from Priceline.com. 800 Connecticut Ave., N=
+orwalk, CT 06854
+               <br><br><br><br><br><br><br><br><br><br><br><br><table bgcol=
+or=3D"#0A84C1" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-family:Ari=
+al;text-align:left;font-size:10px;color:#4A4A4A;" border=3D"0">
+                  <tr>
+                     <td align=3D"left">To :</td>
+                     <td style=3D"color:#4A4A4A;text-decoration:none">&nbsp=
+;johnathan&lt;johnathancroom@gmail.com&gt;</td>
+                  </tr>
+                  <tr>
+                     <td align=3D"left">Subject :</td>
+                     <td>&nbsp;Orlando, FL Flights: Save up to 40%!</td>
+                  </tr>
+                  <tr>
+                     <td align=3D"left">Sent :</td>
+                     <td>&nbsp;Friday, July 6th 2012 at 15:43:49 GMT-4</td>
+                  </tr>
+                  <tr>
+                     <td align=3D"left">MsgId :&nbsp;</td>
+                     <td>&nbsp;19781188205</td>
+                  </tr>
+               </table>
+            </td>
+         </tr>
+      </table><img height=3D'1' width=3D'1' border=3D'0' src=3D'http://jump=
+.priceline.com/email_open1x1.gif?from=3DDINC&batchId=3D245606&sendId=3D1978=
+1188205&refid=3DCUSTOMER&refclickid=3DOPEN%7C20120706%7C%7CCUSTOMER%7CABAND=
+ONATOR%7C16%7C16%7CANY&ea=3DE980DCA6C658F2B28273FF552A5673CD86DEB5511719153=
+6408E232E179DAC6F&plf=3D&email_subject_line=3DOrlando%2C%20FL%20Flights%3A%=
+20Save%20up%20to%2040%25!&email_preview_line=3D'>
+   </body>
+</html>

@@ -12,3 +12,14 @@ get '/' do
   # Render views/example.erb
   erb :example
 end
+
+# Load HTML email contents
+get '/kickstarter.html' do
+  # Read the contents of our example email
+  @original = File.read(File.join(File.dirname(__FILE__), 'email.txt'))
+  # Use Freemail to parse the contents (returns hash of contents)
+  @freemail = Freemail.parse @original
+  
+  # Render HTML content
+  @freemail['body_html']
+end
